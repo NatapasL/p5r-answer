@@ -1,18 +1,14 @@
 <script lang="ts">
-  import { confidants, classrooms } from "./lib/data";
   import Fuse from "fuse.js";
+  import { filterClassroom, filterConfidant } from "./helpers";
   import Autocomplete from "./lib/Autocomplete.svelte";
-  import dayjs from "dayjs";
+  import { classrooms, confidants } from "./lib/data";
+  import type { Option } from "./types";
 
   const CLASSROOM_OPTION = "Classroom";
 
   let searchQuery = $state("");
   let selectedType = $state("");
-
-  interface Option {
-    label: string;
-    value: string;
-  }
 
   const options: Option[] = [
     { label: CLASSROOM_OPTION, value: CLASSROOM_OPTION },
@@ -21,9 +17,19 @@
       .map((character) => ({ label: character, value: character })),
   ];
 
-  const classroomFuse = new Fuse(classrooms, {
-    keys: ["question", "options.text"],
+  const classroomQuestionFuse = new Fuse(classrooms, {
+    keys: ["question"],
     threshold: 0.5,
+  });
+
+  const classroomDateFuse = new Fuse(classrooms, {
+    keys: ["date"],
+    threshold: 0.4,
+  });
+
+  const classroomOptionsFuse = new Fuse(classrooms, {
+    keys: ["options.text"],
+    threshold: 0.1,
   });
 
   let confidantFuse = $derived(
@@ -31,7 +37,7 @@
       confidants.filter((confidant) => confidant.character === selectedType),
       {
         keys: ["dialogue_prompts.options.text"],
-        threshold: 0.5,
+        threshold: 0.4,
       },
     ),
   );
@@ -39,25 +45,26 @@
   let classroomResults = $derived.by(() => {
     if (!selectedType || selectedType !== CLASSROOM_OPTION) return [];
 
-    return classroomFuse
-      .search(searchQuery)
-      .map((result) => result.item)
-      .sort((a, b) => {
-        const dateA = dayjs(a.date, "MMMM D");
-        const dateB = dayjs(b.date, "MMMM D");
-        const valA = dateA.month() < 3 ? dateA.add(1, "year").valueOf() : dateA.valueOf();
-        const valB = dateB.month() < 3 ? dateB.add(1, "year").valueOf() : dateB.valueOf();
-        return valA - valB;
-      });
+    return filterClassroom({
+      searchQuery,
+      classrooms,
+      classroomFuses: [
+        classroomQuestionFuse,
+        classroomDateFuse,
+        classroomOptionsFuse,
+      ],
+    });
   });
 
   let confidantResults = $derived.by(() => {
     if (!selectedType || selectedType === CLASSROOM_OPTION) return [];
 
-    return confidantFuse
-      .search(searchQuery)
-      .map((result) => result.item)
-      .sort((a, b) => a.rank - b.rank);
+    return filterConfidant({
+      selectedType,
+      searchQuery,
+      confidants,
+      confidantFuse,
+    });
   });
 </script>
 
@@ -80,7 +87,7 @@
     {#if !confidantResults.length && !classroomResults.length}
       <p>No results found.</p>
     {:else if selectedType === CLASSROOM_OPTION}
-      {#each classroomResults as result (result.date)}
+      {#each classroomResults as result (`${result.date}-${result.question}`)}
         <div class="card">
           <div class="card-header">
             <strong>{result.question}</strong>

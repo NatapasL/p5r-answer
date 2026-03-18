@@ -27,3 +27,8 @@ interface ClassroomOption {
   text: string;
   is_correct: boolean;
 }
+
+export interface Option {
+  label: string;
+  value: string;
+}

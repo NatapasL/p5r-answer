@@ -62,6 +62,13 @@
     }
   }
 
+  function clear() {
+    value = "";
+    autocompleteSearch = "";
+    isDropdownOpen = false;
+    highlightedIndex = -1;
+  }
+
   // Sync autocompleteSearch with value
   $effect(() => {
     const option = options.find((o) => o.value === value);
@@ -85,6 +92,11 @@
     onblur={() => setTimeout(() => (isDropdownOpen = false), 200)}
     onkeydown={handleKeydown}
   />
+  {#if value}
+    <button type="button" class="clear-button" onclick={clear} aria-label="Clear selection">
+      ×
+    </button>
+  {/if}
   {#if isDropdownOpen && filteredOptions.length > 0}
     <ul class="dropdown">
       {#each filteredOptions as option, i (option.value)}
@@ -109,7 +121,7 @@
   }
 
   input {
-    padding: 0.5rem 0.75rem;
+    padding: 0.5rem 2.5rem 0.5rem 0.75rem;
     font-size: 1rem;
     font-weight: 800;
     text-transform: uppercase;
@@ -128,6 +140,34 @@
     color: var(--p5-white);
     border-color: var(--p5-white);
     transform: scale(1.01) rotate(0.2deg);
+  }
+
+  .clear-button {
+    position: absolute;
+    right: 10px;
+    top: 50%;
+    transform: translateY(-50%) rotate(5deg);
+    background: var(--p5-red);
+    color: var(--p5-white);
+    border: 2px solid var(--p5-black);
+    font-size: 1.2rem;
+    line-height: 1;
+    width: 24px;
+    height: 24px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    cursor: pointer;
+    padding: 0;
+    font-weight: 900;
+    transition: all 0.1s ease;
+    z-index: 2;
+  }
+
+  .clear-button:hover {
+    background: var(--p5-black);
+    color: var(--p5-red);
+    transform: translateY(-50%) scale(1.1) rotate(-5deg);
   }
 
   .dropdown {
