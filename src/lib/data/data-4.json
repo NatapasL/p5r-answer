@@ -1,0 +1,2519 @@
+[
+  {
+    "type": "confidant",
+    "character": "Sojiro",
+    "rank": 1,
+    "dialogue_prompts": [
+      {
+        "prompt_order": 1,
+        "options": [
+          {
+            "text": "Got it.",
+            "points": 3,
+            "is_best": true
+          },
+          {
+            "text": "That was our deal.",
+            "points": 2,
+            "is_best": false
+          },
+          {
+            "text": "It's the least I can do.",
+            "points": 2,
+            "is_best": false
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "type": "confidant",
+    "character": "Sojiro",
+    "rank": 2,
+    "dialogue_prompts": [
+      {
+        "prompt_order": 1,
+        "options": [
+          {
+            "text": "Making coffee.",
+            "points": 2,
+            "is_best": true
+          },
+          {
+            "text": "Hitting on girls.",
+            "points": 0,
+            "is_best": false
+          },
+          {
+            "text": "No idea.",
+            "points": 0,
+            "is_best": false
+          }
+        ]
+      },
+      {
+        "prompt_order": 2,
+        "options": [
+          {
+            "text": "Who was he?",
+            "points": 0,
+            "is_best": false
+          },
+          {
+            "text": "That guy seemed suspicious.",
+            "points": 2,
+            "is_best": true
+          },
+          {
+            "text": "Who's the “her” he mentioned?",
+            "points": 0,
+            "is_best": false
+          }
+        ]
+      },
+      {
+        "prompt_order": 3,
+        "options": [
+          {
+            "text": "I want the ladies to love me.",
+            "points": 2,
+            "is_best": true
+          },
+          {
+            "text": "I don't care about that stuff.",
+            "points": 0,
+            "is_best": false
+          }
+        ]
+      },
+      {
+        "prompt_order": 4,
+        "options": [
+          {
+            "text": "Got it.",
+            "points": 2,
+            "is_best": true
+          },
+          {
+            "text": "Give me a break.",
+            "points": 0,
+            "is_best": false
+          },
+          {
+            "text": "Why'd you call my cell?",
+            "points": 0,
+            "is_best": false
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "type": "confidant",
+    "character": "Sojiro",
+    "rank": 3,
+    "dialogue_prompts": [
+      {
+        "prompt_order": 1,
+        "options": [
+          {
+            "text": "Medium-fine.",
+            "points": 2,
+            "is_best": true
+          },
+          {
+            "text": "Coarse.",
+            "points": 0,
+            "is_best": false
+          },
+          {
+            "text": "Anything goes.",
+            "points": 0,
+            "is_best": false
+          }
+        ]
+      },
+      {
+        "prompt_order": 2,
+        "options": [
+          {
+            "text": "Is it a date?",
+            "points": 0,
+            "is_best": false
+          },
+          {
+            "text": "Is it trouble??",
+            "points": 2,
+            "is_best": true
+          },
+          {
+            "text": "You don't want my help anymore?",
+            "points": 0,
+            "is_best": false
+          }
+        ]
+      },
+      {
+        "prompt_order": 3,
+        "options": [
+          {
+            "text": "I'm ready to work.",
+            "points": 2,
+            "is_best": true
+          },
+          {
+            "text": "Go easy on me.",
+            "points": 0,
+            "is_best": false
+          },
+          {
+            "text": "Thank you in advance.",
+            "points": 2,
+            "is_best": true
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "type": "confidant",
+    "character": "Sojiro",
+    "rank": 4,
+    "dialogue_prompts": [
+      {
+        "prompt_order": 1,
+        "options": [
+          {
+            "text": "Tell me more.",
+            "points": 3,
+            "is_best": true
+          },
+          {
+            "text": "That sounds tough…",
+            "points": 0,
+            "is_best": false
+          },
+          {
+            "text": "It all tastes the same to me.",
+            "points": 0,
+            "is_best": false
+          }
+        ]
+      },
+      {
+        "prompt_order": 2,
+        "options": [
+          {
+            "text": "Run for help",
+            "points": 0,
+            "is_best": false
+          },
+          {
+            "text": "Call Sojiro's phone",
+            "points": 3,
+            "is_best": true
+          },
+          {
+            "text": "Kick the man out",
+            "points": 0,
+            "is_best": false
+          }
+        ]
+      },
+      {
+        "prompt_order": 3,
+        "options": [
+          {
+            "text": "Understood.",
+            "points": 2,
+            "is_best": true
+          },
+          {
+            "text": "I'm kind of nervous...",
+            "points": 0,
+            "is_best": false
+          },
+          {
+            "text": "I'll kick him out.",
+            "points": 0,
+            "is_best": false
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "type": "confidant",
+    "character": "Sojiro",
+    "rank": 5,
+    "dialogue_prompts": [
+      {
+        "prompt_order": 1,
+        "options": [
+          {
+            "text": "It wasn't bad.",
+            "points": 2,
+            "is_best": false
+          },
+          {
+            "text": "Nothing special.",
+            "points": 0,
+            "is_best": false
+          },
+          {
+            "text": "I think I'm addicted!",
+            "points": 3,
+            "is_best": true
+          }
+        ]
+      },
+      {
+        "prompt_order": 2,
+        "options": [
+          {
+            "text": "She was like Futaba?",
+            "points": 2,
+            "is_best": false
+          },
+          {
+            "text": "She wasn't normal, huh?",
+            "points": 3,
+            "is_best": true
+          },
+          {
+            "text": "So that's why you're a bachelor?",
+            "points": 0,
+            "is_best": false
+          }
+        ]
+      },
+      {
+        "prompt_order": 3,
+        "options": [
+          {
+            "text": "It really paid off in the end.",
+            "points": 2,
+            "is_best": true
+          },
+          {
+            "text": "Almost brings a tear to my eye.",
+            "points": 0,
+            "is_best": false
+          },
+          {
+            "text": "So much history…",
+            "points": 0,
+            "is_best": false
+          }
+        ]
+      },
+      {
+        "prompt_order": 4,
+        "options": [
+          {
+            "text": "Sounds good to me.",
+            "points": 0,
+            "is_best": false
+          },
+          {
+            "text": "She needs a balanced diet.",
+            "points": 2,
+            "is_best": true
+          },
+          {
+            "text": "There's always instant noodles.",
+            "points": 0,
+            "is_best": false
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "type": "confidant",
+    "character": "Sojiro",
+    "rank": 6,
+    "dialogue_prompts": [
+      {
+        "prompt_order": 1,
+        "options": [
+          {
+            "text": "I admire it.",
+            "points": 0,
+            "is_best": false
+          },
+          {
+            "text": "I'm not impressed.",
+            "points": 0,
+            "is_best": false
+          },
+          {
+            "text": "To each his own.",
+            "points": 2,
+            "is_best": true
+          }
+        ]
+      },
+      {
+        "prompt_order": 2,
+        "options": [
+          {
+            "text": "You're wrong.",
+            "points": 2,
+            "is_best": false
+          },
+          {
+            "text": "I'm sorry.",
+            "points": 0,
+            "is_best": false
+          },
+          {
+            "text": "Shut your mouth.",
+            "points": 3,
+            "is_best": true
+          }
+        ]
+      },
+      {
+        "prompt_order": 3,
+        "options": [
+          {
+            "text": "Saving Futaba was no mistake.",
+            "points": 2,
+            "is_best": true
+          },
+          {
+            "text": "Just cut your ties with him.",
+            "points": 0,
+            "is_best": false
+          }
+        ]
+      },
+      {
+        "prompt_order": 4,
+        "options": [
+          {
+            "text": "Is she okay?",
+            "points": 0,
+            "is_best": false
+          },
+          {
+            "text": "Try to relax.",
+            "points": 0,
+            "is_best": false
+          },
+          {
+            "text": "If I can help somehow...",
+            "points": 2,
+            "is_best": true
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "type": "confidant",
+    "character": "Sojiro",
+    "rank": 7,
+    "dialogue_prompts": [
+      {
+        "prompt_order": 1,
+        "options": [
+          {
+            "text": "You might be right.",
+            "points": 3,
+            "is_best": true
+          },
+          {
+            "text": "That's not true.",
+            "points": 0,
+            "is_best": false
+          },
+          {
+            "text": "They're still delicious.",
+            "points": 0,
+            "is_best": false
+          }
+        ]
+      },
+      {
+        "prompt_order": 2,
+        "options": [
+          {
+            "text": "Are you alright?",
+            "points": 0,
+            "is_best": false
+          },
+          {
+            "text": "Have you calmed down?",
+            "points": 0,
+            "is_best": false
+          },
+          {
+            "text": "Do you want to talk?",
+            "points": 0,
+            "is_best": false
+          }
+        ]
+      },
+      {
+        "prompt_order": 3,
+        "options": [
+          {
+            "text": "Let's talk to him.",
+            "points": 0,
+            "is_best": false
+          },
+          {
+            "text": "You should tell him that.",
+            "points": 0,
+            "is_best": false
+          },
+          {
+            "text": "You guys are one awkward duo.",
+            "points": 0,
+            "is_best": false
+          }
+        ]
+      },
+      {
+        "prompt_order": 4,
+        "options": [
+          {
+            "text": "I'm truly glad.",
+            "points": 0,
+            "is_best": false
+          },
+          {
+            "text": "You're welcome.",
+            "points": 0,
+            "is_best": false
+          },
+          {
+            "text": "Feel like a real dad now?",
+            "points": 2,
+            "is_best": true
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "type": "confidant",
+    "character": "Sojiro",
+    "rank": 8,
+    "dialogue_prompts": [
+      {
+        "prompt_order": 1,
+        "options": [
+          {
+            "text": "You want my suggestion?",
+            "points": 2,
+            "is_best": false
+          },
+          {
+            "text": "Something with curry.",
+            "points": 3,
+            "is_best": true
+          },
+          {
+            "text": "I can't decide!",
+            "points": 0,
+            "is_best": false
+          }
+        ]
+      },
+      {
+        "prompt_order": 2,
+        "options": [
+          {
+            "text": "I didn't do anything wrong.",
+            "points": 0,
+            "is_best": false
+          },
+          {
+            "text": "I was just protecting Futaba.",
+            "points": 3,
+            "is_best": true
+          },
+          {
+            "text": "Sorry.",
+            "points": 0,
+            "is_best": false
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "type": "confidant",
+    "character": "Sojiro",
+    "rank": 9,
+    "dialogue_prompts": [
+      {
+        "prompt_order": 1,
+        "options": [
+          {
+            "text": "It's great.",
+            "points": 3,
+            "is_best": true
+          },
+          {
+            "text": "He's a bit of a nag.",
+            "points": 3,
+            "is_best": true
+          }
+        ]
+      },
+      {
+        "prompt_order": 2,
+        "options": [
+          {
+            "text": "Are you crying?",
+            "points": 0,
+            "is_best": false
+          },
+          {
+            "text": "You have a great daughter.",
+            "points": 3,
+            "is_best": true
+          },
+          {
+            "text": "Congrats.",
+            "points": 3,
+            "is_best": true
+          }
+        ]
+      },
+      {
+        "prompt_order": 3,
+        "options": [
+          {
+            "text": "You did great.",
+            "points": 3,
+            "is_best": true
+          },
+          {
+            "text": "Futaba did great.",
+            "points": 3,
+            "is_best": true
+          },
+          {
+            "text": "You two were already family.",
+            "points": 2,
+            "is_best": false
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "type": "confidant",
+    "character": "Sojiro",
+    "rank": 10,
+    "dialogue_prompts": [
+      {
+        "prompt_order": 1,
+        "options": [
+          {
+            "text": "For what?",
+            "points": 0,
+            "is_best": false
+          },
+          {
+            "text": "You guys are religious?",
+            "points": 0,
+            "is_best": false
+          },
+          {
+            "text": "I'm not interested.",
+            "points": 0,
+            "is_best": false
+          }
+        ]
+      },
+      {
+        "prompt_order": 2,
+        "options": [
+          {
+            "text": "Good for you.",
+            "points": 3,
+            "is_best": true
+          },
+          {
+            "text": "Thank you.",
+            "points": 3,
+            "is_best": true
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "type": "confidant",
+    "character": "Akechi",
+    "rank": 2,
+    "dialogue_prompts": [
+      {
+        "prompt_order": 1,
+        "options": [
+          {
+            "text": "You always seem so busy.",
+            "points": 2,
+            "is_best": true
+          },
+          {
+            "text": "Do you have no friends?",
+            "points": 0,
+            "is_best": false
+          }
+        ]
+      },
+      {
+        "prompt_order": 2,
+        "options": [
+          {
+            "text": "Is that your win?",
+            "points": 0,
+            "is_best": false
+          },
+          {
+            "text": "Not bad.",
+            "points": 0,
+            "is_best": false
+          }
+        ]
+      },
+      {
+        "prompt_order": 3,
+        "options": [
+          {
+            "text": "Shoot very carefully.",
+            "points": 2,
+            "is_best": true
+          },
+          {
+            "text": "I'll go for a power shot.",
+            "points": 2,
+            "is_best": true
+          }
+        ]
+      },
+      {
+        "prompt_order": 4,
+        "options": [
+          {
+            "text": "You used your right hand.",
+            "points": 0,
+            "is_best": false
+          },
+          {
+            "text": "...Aren't you left-handed?",
+            "points": 0,
+            "is_best": false
+          }
+        ]
+      },
+      {
+        "prompt_order": 5,
+        "options": [
+          {
+            "text": "Maybe i'll be a detective.",
+            "points": 2,
+            "is_best": false
+          },
+          {
+            "text": "No holding back next time.",
+            "points": 2,
+            "is_best": false
+          },
+          {
+            "text": "I see a lot of things.",
+            "points": 3,
+            "is_best": true
+          }
+        ]
+      },
+      {
+        "prompt_order": 6,
+        "options": [
+          {
+            "text": "Sure.",
+            "points": 0,
+            "is_best": false
+          },
+          {
+            "text": "I'll think about it.",
+            "points": 0,
+            "is_best": false
+          },
+          {
+            "text": "As rivals?",
+            "points": 2,
+            "is_best": true
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "type": "confidant",
+    "character": "Akechi",
+    "rank": 3,
+    "dialogue_prompts": [
+      {
+        "prompt_order": 1,
+        "options": [
+          {
+            "text": "Got a sweet tooth, huh?",
+            "points": 0,
+            "is_best": false
+          },
+          {
+            "text": "Come here often?",
+            "points": 0,
+            "is_best": false
+          }
+        ]
+      },
+      {
+        "prompt_order": 2,
+        "options": [
+          {
+            "text": "Should've figured.",
+            "points": 3,
+            "is_best": true
+          },
+          {
+            "text": "Your life must be so hard.",
+            "points": 2,
+            "is_best": false
+          },
+          {
+            "text": "I can shoo them away...",
+            "points": 0,
+            "is_best": false
+          }
+        ]
+      },
+      {
+        "prompt_order": 3,
+        "options": [
+          {
+            "text": "You've done nothing wrong.",
+            "points": 0,
+            "is_best": false
+          },
+          {
+            "text": "Why the rush?",
+            "points": 0,
+            "is_best": false
+          }
+        ]
+      },
+      {
+        "prompt_order": 4,
+        "options": [
+          {
+            "text": "How about we find out?",
+            "points": 0,
+            "is_best": false
+          },
+          {
+            "text": "Come here a sec.",
+            "points": 0,
+            "is_best": false
+          }
+        ]
+      },
+      {
+        "prompt_order": 5,
+        "options": [
+          {
+            "text": "You looked great.",
+            "points": 0,
+            "is_best": false
+          },
+          {
+            "text": "It was a necessary evil.",
+            "points": 0,
+            "is_best": false
+          },
+          {
+            "text": "I should've taken a picture.",
+            "points": 0,
+            "is_best": false
+          }
+        ]
+      },
+      {
+        "prompt_order": 6,
+        "options": [
+          {
+            "text": "That was careless, huh?",
+            "points": 0,
+            "is_best": false
+          },
+          {
+            "text": "Wasn't it fun?",
+            "points": 2,
+            "is_best": true
+          },
+          {
+            "text": "I can always dress you up again.",
+            "points": 0,
+            "is_best": false
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "type": "confidant",
+    "character": "Akechi",
+    "rank": 4,
+    "dialogue_prompts": [
+      {
+        "prompt_order": 1,
+        "options": [
+          {
+            "text": "What kind of place is this?",
+            "points": 0,
+            "is_best": false
+          },
+          {
+            "text": "This looks shady...",
+            "points": 0,
+            "is_best": false
+          }
+        ]
+      },
+      {
+        "prompt_order": 2,
+        "options": [
+          {
+            "text": "Do they have coffee?",
+            "points": 2,
+            "is_best": false
+          },
+          {
+            "text": "But I'm underage.",
+            "points": 0,
+            "is_best": false
+          },
+          {
+            "text": "Now this is my kind of club.",
+            "points": 3,
+            "is_best": true
+          }
+        ]
+      },
+      {
+        "prompt_order": 3,
+        "options": [
+          {
+            "text": "Any recommendations?",
+            "points": 3,
+            "is_best": true
+          },
+          {
+            "text": "Anything's fine by me.",
+            "points": 2,
+            "is_best": false
+          },
+          {
+            "text": "An ice-cold beer for me.",
+            "points": 0,
+            "is_best": false
+          }
+        ]
+      },
+      {
+        "prompt_order": 4,
+        "options": [
+          {
+            "text": "It's a great place.",
+            "points": 2,
+            "is_best": true
+          },
+          {
+            "text": "I feel a bit nervous.",
+            "points": 0,
+            "is_best": false
+          }
+        ]
+      },
+      {
+        "prompt_order": 5,
+        "options": [
+          {
+            "text": "A run-down cafe.",
+            "points": 0,
+            "is_best": false
+          },
+          {
+            "text": "A shop with great coffee.",
+            "points": 0,
+            "is_best": false
+          },
+          {
+            "text": "I live there, actually.",
+            "points": 0,
+            "is_best": false
+          }
+        ]
+      },
+      {
+        "prompt_order": 6,
+        "options": [
+          {
+            "text": "Pretty frequently.",
+            "points": 3,
+            "is_best": true
+          },
+          {
+            "text": "I can use a microwave.",
+            "points": 3,
+            "is_best": true
+          },
+          {
+            "text": "All I need is curry.",
+            "points": 2,
+            "is_best": false
+          }
+        ]
+      },
+      {
+        "prompt_order": 7,
+        "options": [
+          {
+            "text": "What are you talking about?",
+            "points": 0,
+            "is_best": false
+          },
+          {
+            "text": "I kinda get it.",
+            "points": 2,
+            "is_best": true
+          },
+          {
+            "text": "You really are having fun.",
+            "points": 0,
+            "is_best": false
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "type": "confidant",
+    "character": "Akechi",
+    "rank": 5,
+    "dialogue_prompts": [
+      {
+        "prompt_order": 1,
+        "options": [
+          {
+            "text": "All the time.",
+            "points": 0,
+            "is_best": false
+          },
+          {
+            "text": "I'm not great at them.",
+            "points": 0,
+            "is_best": false
+          },
+          {
+            "text": "Have you played any?",
+            "points": 0,
+            "is_best": false
+          }
+        ]
+      },
+      {
+        "prompt_order": 2,
+        "options": [
+          {
+            "text": "Are you used to gunplay?",
+            "points": 2,
+            "is_best": true
+          },
+          {
+            "text": "You took that seriously, huh.",
+            "points": 0,
+            "is_best": false
+          }
+        ]
+      },
+      {
+        "prompt_order": 3,
+        "options": [
+          {
+            "text": "You wanted to be a hero?",
+            "points": 3,
+            "is_best": true
+          },
+          {
+            "text": "Very interesting.",
+            "points": 2,
+            "is_best": false
+          },
+          {
+            "text": "Hard to imagine.",
+            "points": 0,
+            "is_best": false
+          }
+        ]
+      },
+      {
+        "prompt_order": 4,
+        "options": [
+          {
+            "text": "Sticking to your justice.",
+            "points": 0,
+            "is_best": false
+          },
+          {
+            "text": "Doing what people want.",
+            "points": 0,
+            "is_best": false
+          },
+          {
+            "text": "Neither, really.",
+            "points": 0,
+            "is_best": false
+          }
+        ]
+      },
+      {
+        "prompt_order": 5,
+        "options": [
+          {
+            "text": "You did fine.",
+            "points": 2,
+            "is_best": true
+          },
+          {
+            "text": "You've got a long way to go.",
+            "points": 2,
+            "is_best": true
+          },
+          {
+            "text": "You were getting cocky.",
+            "points": 2,
+            "is_best": true
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "type": "confidant",
+    "character": "Akechi",
+    "rank": 6,
+    "dialogue_prompts": [
+      {
+        "prompt_order": 1,
+        "options": [
+          {
+            "text": "So relaxing...",
+            "points": 2,
+            "is_best": false
+          },
+          {
+            "text": "Seeing you here is weird.",
+            "points": 0,
+            "is_best": false
+          },
+          {
+            "text": "A while, huh?",
+            "points": 3,
+            "is_best": true
+          }
+        ]
+      },
+      {
+        "prompt_order": 2,
+        "options": [
+          {
+            "text": "That was horrible of her.",
+            "points": 0,
+            "is_best": false
+          },
+          {
+            "text": "... You've been through a lot.",
+            "points": 2,
+            "is_best": true
+          }
+        ]
+      },
+      {
+        "prompt_order": 3,
+        "options": [
+          {
+            "text": "This is nothing.",
+            "points": 3,
+            "is_best": true
+          },
+          {
+            "text": "I'll stay until you're ready.",
+            "points": 3,
+            "is_best": true
+          },
+          {
+            "text": "Are YOU okay?",
+            "points": 2,
+            "is_best": false
+          }
+        ]
+      },
+      {
+        "prompt_order": 4,
+        "options": [
+          {
+            "text": "Same.",
+            "points": 3,
+            "is_best": true
+          },
+          {
+            "text": "I'm just fine.",
+            "points": 0,
+            "is_best": false
+          },
+          {
+            "text": "Guess I win.",
+            "points": 2,
+            "is_best": false
+          }
+        ]
+      },
+      {
+        "prompt_order": 5,
+        "options": [
+          {
+            "text": "Because we get along.",
+            "points": 2,
+            "is_best": true
+          },
+          {
+            "text": "Because we're similar.",
+            "points": 2,
+            "is_best": true
+          }
+        ]
+      },
+      {
+        "prompt_order": 6,
+        "options": [
+          {
+            "text": "I think you're right.",
+            "points": 3,
+            "is_best": true
+          },
+          {
+            "text": "I don't know about that.",
+            "points": 0,
+            "is_best": false
+          },
+          {
+            "text": "Can I put my clothes on?",
+            "points": 2,
+            "is_best": false
+          }
+        ]
+      },
+      {
+        "prompt_order": 7,
+        "options": [
+          {
+            "text": "True.",
+            "points": 0,
+            "is_best": false
+          },
+          {
+            "text": "They'd probably love it.",
+            "points": 0,
+            "is_best": false
+          },
+          {
+            "text": "My bad, I guess.",
+            "points": 2,
+            "is_best": true
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "type": "confidant",
+    "character": "Akechi",
+    "rank": 7,
+    "dialogue_prompts": [
+      {
+        "prompt_order": 1,
+        "options": [
+          {
+            "text": "Yeah, it's convoluted.",
+            "points": 2,
+            "is_best": false
+          },
+          {
+            "text": "That's why it's so fun.",
+            "points": 3,
+            "is_best": true
+          }
+        ]
+      },
+      {
+        "prompt_order": 2,
+        "options": [
+          {
+            "text": "The psychotic breakdowns.",
+            "points": 0,
+            "is_best": false
+          },
+          {
+            "text": "What're you getting at?",
+            "points": 0,
+            "is_best": false
+          }
+        ]
+      },
+      {
+        "prompt_order": 3,
+        "options": [
+          {
+            "text": "I've made up my mind.",
+            "points": 0,
+            "is_best": false
+          },
+          {
+            "text": "I won't miss my shot.",
+            "points": 0,
+            "is_best": false
+          }
+        ]
+      },
+      {
+        "prompt_order": 4,
+        "options": [
+          {
+            "text": "It's thanks to you.",
+            "points": 2,
+            "is_best": false
+          },
+          {
+            "text": "I couldn't let myself lose.",
+            "points": 3,
+            "is_best": true
+          }
+        ]
+      },
+      {
+        "prompt_order": 5,
+        "options": [
+          {
+            "text": "But we're teammates now.",
+            "points": 0,
+            "is_best": false
+          },
+          {
+            "text": "Wnat to join us?",
+            "points": 0,
+            "is_best": false
+          }
+        ]
+      },
+      {
+        "prompt_order": 6,
+        "options": [
+          {
+            "text": "I'll think about it.",
+            "points": 0,
+            "is_best": false
+          },
+          {
+            "text": "I'm not doing that.",
+            "points": 0,
+            "is_best": false
+          },
+          {
+            "text": "You're my rival.",
+            "points": 0,
+            "is_best": false
+          }
+        ]
+      },
+      {
+        "prompt_order": 7,
+        "options": [
+          {
+            "text": "Do I?",
+            "points": 0,
+            "is_best": false
+          },
+          {
+            "text": "I don't know.",
+            "points": 0,
+            "is_best": false
+          },
+          {
+            "text": "We're rivals, aren't we?",
+            "points": 2,
+            "is_best": true
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "type": "confidant",
+    "character": "Akechi",
+    "rank": 8,
+    "dialogue_prompts": [
+      {
+        "prompt_order": 1,
+        "options": [
+          {
+            "text": "What'd you want to discuss?",
+            "points": 0,
+            "is_best": false
+          },
+          {
+            "text": "Why are we in Mementos?",
+            "points": 0,
+            "is_best": false
+          }
+        ]
+      },
+      {
+        "prompt_order": 2,
+        "options": [
+          {
+            "text": "I thought you meant in pool.",
+            "points": 0,
+            "is_best": false
+          },
+          {
+            "text": "You want to fight?",
+            "points": 0,
+            "is_best": false
+          },
+          {
+            "text": "But why, though?",
+            "points": 0,
+            "is_best": false
+          }
+        ]
+      },
+      {
+        "prompt_order": 3,
+        "options": [
+          {
+            "text": "All right.",
+            "points": 0,
+            "is_best": false
+          },
+          {
+            "text": "Let's do this.",
+            "points": 0,
+            "is_best": false
+          }
+        ]
+      },
+      {
+        "prompt_order": 4,
+        "options": [
+          {
+            "text": "Are you satisfied?",
+            "points": 0,
+            "is_best": false
+          },
+          {
+            "text": "Was that all you got?",
+            "points": 0,
+            "is_best": false
+          },
+          {
+            "text": "Do you want to keep going?",
+            "points": 0,
+            "is_best": false
+          }
+        ]
+      },
+      {
+        "prompt_order": 5,
+        "options": [
+          {
+            "text": "I'd say the same for you.",
+            "points": 0,
+            "is_best": false
+          },
+          {
+            "text": "The feeling mutual.",
+            "points": 0,
+            "is_best": false
+          }
+        ]
+      },
+      {
+        "prompt_order": 6,
+        "options": [
+          {
+            "text": "I definitely wouldn't lose.",
+            "points": 3,
+            "is_best": true
+          },
+          {
+            "text": "I don't know.",
+            "points": 0,
+            "is_best": false
+          },
+          {
+            "text": "Probably.",
+            "points": 0,
+            "is_best": false
+          }
+        ]
+      },
+      {
+        "prompt_order": 7,
+        "options": [
+          {
+            "text": "Same here.",
+            "points": 0,
+            "is_best": false
+          },
+          {
+            "text": "Really hate losing, don't you.",
+            "points": 3,
+            "is_best": true
+          }
+        ]
+      },
+      {
+        "prompt_order": 8,
+        "options": [
+          {
+            "text": "I accept.",
+            "points": 0,
+            "is_best": false
+          },
+          {
+            "text": "Let me think about it.",
+            "points": 0,
+            "is_best": false
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "type": "confidant",
+    "character": "Ann",
+    "rank": 2,
+    "dialogue_prompts": [
+      {
+        "prompt_order": 1,
+        "options": [
+          {
+            "text": "Are you feeling better now?",
+            "points": 3,
+            "is_best": true
+          },
+          {
+            "text": "She's so strong.",
+            "points": 3,
+            "is_best": true
+          },
+          {
+            "text": "So are you friends again?",
+            "points": 2,
+            "is_best": false
+          }
+        ]
+      },
+      {
+        "prompt_order": 2,
+        "options": [
+          {
+            "text": "You can't blame yourself.",
+            "points": 2,
+            "is_best": false
+          },
+          {
+            "text": "You might be right.",
+            "points": 3,
+            "is_best": true
+          },
+          {
+            "text": "Kamoshida had the upper hand.",
+            "points": 2,
+            "is_best": false
+          }
+        ]
+      },
+      {
+        "prompt_order": 3,
+        "options": [
+          {
+            "text": "It was no big deal.",
+            "points": 2,
+            "is_best": false
+          },
+          {
+            "text": "I couldn't just ignore you.",
+            "points": 3,
+            "is_best": true
+          }
+        ]
+      },
+      {
+        "prompt_order": 4,
+        "options": [
+          {
+            "text": "I'll help.",
+            "points": 3,
+            "is_best": true
+          },
+          {
+            "text": "Let's find it together.",
+            "points": 3,
+            "is_best": true
+          }
+        ]
+      },
+      {
+        "prompt_order": 5,
+        "options": [
+          {
+            "text": "Of course, You're my teammate.",
+            "points": 2,
+            "is_best": true
+          },
+          {
+            "text": "Leave it to me.",
+            "points": 2,
+            "is_best": true
+          },
+          {
+            "text": "The no-refills thing again?",
+            "points": 2,
+            "is_best": true
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "type": "confidant",
+    "character": "Ann",
+    "rank": 3,
+    "dialogue_prompts": [
+      {
+        "prompt_order": 1,
+        "options": [
+          {
+            "text": "How's that?",
+            "points": 0,
+            "is_best": false
+          },
+          {
+            "text": "You're amazing.",
+            "points": 0,
+            "is_best": false
+          }
+        ]
+      },
+      {
+        "prompt_order": 2,
+        "options": [
+          {
+            "text": "What kind of stuff…?",
+            "points": 0,
+            "is_best": false
+          },
+          {
+            "text": "That's your training…?",
+            "points": 0,
+            "is_best": false
+          },
+          {
+            "text": "I don't get it.",
+            "points": 0,
+            "is_best": false
+          }
+        ]
+      },
+      {
+        "prompt_order": 3,
+        "options": [
+          {
+            "text": "You're stupid.",
+            "points": 0,
+            "is_best": false
+          },
+          {
+            "text": "You're an airhead.",
+            "points": 0,
+            "is_best": false
+          },
+          {
+            "text": "You're… unique.",
+            "points": 0,
+            "is_best": false
+          }
+        ]
+      },
+      {
+        "prompt_order": 4,
+        "options": [
+          {
+            "text": "You're a hard worker.",
+            "points": 0,
+            "is_best": false
+          },
+          {
+            "text": "That response was annoying.",
+            "points": 0,
+            "is_best": false
+          },
+          {
+            "text": "Can we stop yet?",
+            "points": 0,
+            "is_best": false
+          }
+        ]
+      },
+      {
+        "prompt_order": 5,
+        "options": [
+          {
+            "text": "I like you.",
+            "points": 2,
+            "is_best": false
+          },
+          {
+            "text": "I love you.",
+            "points": 2,
+            "is_best": false
+          },
+          {
+            "text": "Can we stop yet?",
+            "points": 3,
+            "is_best": true
+          }
+        ]
+      },
+      {
+        "prompt_order": 6,
+        "options": [
+          {
+            "text": "Listen to me.",
+            "points": 0,
+            "is_best": false
+          },
+          {
+            "text": "This won't help your heart.",
+            "points": 0,
+            "is_best": false
+          },
+          {
+            "text": "You're a genius…",
+            "points": 0,
+            "is_best": false
+          }
+        ]
+      },
+      {
+        "prompt_order": 7,
+        "options": [
+          {
+            "text": "You're right.",
+            "points": 0,
+            "is_best": false
+          },
+          {
+            "text": "You finally get it.",
+            "points": 0,
+            "is_best": false
+          }
+        ]
+      },
+      {
+        "prompt_order": 8,
+        "options": [
+          {
+            "text": "That's odd.",
+            "points": 2,
+            "is_best": false
+          },
+          {
+            "text": "Has that happened to you?",
+            "points": 3,
+            "is_best": true
+          }
+        ]
+      },
+      {
+        "prompt_order": 9,
+        "options": [
+          {
+            "text": "Are you lonely?",
+            "points": 0,
+            "is_best": false
+          },
+          {
+            "text": "That freedom sounds nice.",
+            "points": 2,
+            "is_best": true
+          }
+        ]
+      },
+      {
+        "prompt_order": 10,
+        "options": [
+          {
+            "text": "Could be.",
+            "points": 2,
+            "is_best": true
+          },
+          {
+            "text": "You're so self-conscious.",
+            "points": 0,
+            "is_best": false
+          },
+          {
+            "text": "Was she a child model?",
+            "points": 0,
+            "is_best": false
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "type": "confidant",
+    "character": "Ann",
+    "rank": 4,
+    "dialogue_prompts": [
+      {
+        "prompt_order": 1,
+        "options": [
+          {
+            "text": "I know what you mean.",
+            "points": 3,
+            "is_best": true
+          },
+          {
+            "text": "I'm not sure I follow.",
+            "points": 0,
+            "is_best": false
+          },
+          {
+            "text": "That comes down to you.",
+            "points": 2,
+            "is_best": false
+          }
+        ]
+      },
+      {
+        "prompt_order": 2,
+        "options": [
+          {
+            "text": "That was mean of her.",
+            "points": 2,
+            "is_best": false
+          },
+          {
+            "text": "That's hilarious.",
+            "points": 3,
+            "is_best": true
+          },
+          {
+            "text": "Was she right?",
+            "points": 0,
+            "is_best": false
+          }
+        ]
+      },
+      {
+        "prompt_order": 3,
+        "options": [
+          {
+            "text": "Tell me.",
+            "points": 3,
+            "is_best": true
+          },
+          {
+            "text": "I'm afraid to know.",
+            "points": 2,
+            "is_best": false
+          },
+          {
+            "text": "…Who?",
+            "points": 0,
+            "is_best": false
+          }
+        ]
+      },
+      {
+        "prompt_order": 4,
+        "options": [
+          {
+            "text": "Good idea.",
+            "points": 3,
+            "is_best": true
+          },
+          {
+            "text": "How exactly?",
+            "points": 2,
+            "is_best": false
+          }
+        ]
+      },
+      {
+        "prompt_order": 5,
+        "options": [
+          {
+            "text": "That's not going to work.",
+            "points": 0,
+            "is_best": false
+          },
+          {
+            "text": "You haven't learned anything.",
+            "points": 0,
+            "is_best": false
+          },
+          {
+            "text": "Good luck with that.",
+            "points": 3,
+            "is_best": true
+          }
+        ]
+      },
+      {
+        "prompt_order": 6,
+        "options": [
+          {
+            "text": "I train everyday.",
+            "points": 2,
+            "is_best": true
+          },
+          {
+            "text": "Not really.",
+            "points": 0,
+            "is_best": false
+          },
+          {
+            "text": "I carry Morgana in my bag.",
+            "points": 2,
+            "is_best": true
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "type": "confidant",
+    "character": "Ann",
+    "rank": 5,
+    "dialogue_prompts": [
+      {
+        "prompt_order": 1,
+        "options": [
+          {
+            "text": "Maybe.",
+            "points": 0,
+            "is_best": false
+          },
+          {
+            "text": "Give it up.",
+            "points": 2,
+            "is_best": true
+          }
+        ]
+      },
+      {
+        "prompt_order": 2,
+        "options": [
+          {
+            "text": "You're outmatched.",
+            "points": 0,
+            "is_best": false
+          },
+          {
+            "text": "She's amazing, huh…",
+            "points": 2,
+            "is_best": true
+          }
+        ]
+      },
+      {
+        "prompt_order": 3,
+        "options": [
+          {
+            "text": "It had grace.",
+            "points": 2,
+            "is_best": true
+          },
+          {
+            "text": "She'd be a great Phantom Thief.",
+            "points": 0,
+            "is_best": false
+          }
+        ]
+      },
+      {
+        "prompt_order": 4,
+        "options": [
+          {
+            "text": "So how do you do it?",
+            "points": 0,
+            "is_best": false
+          },
+          {
+            "text": "Tell me more.",
+            "points": 0,
+            "is_best": false
+          }
+        ]
+      },
+      {
+        "prompt_order": 5,
+        "options": [
+          {
+            "text": "I figured that much.",
+            "points": 0,
+            "is_best": false
+          },
+          {
+            "text": "I mean, that's why it's “fake.”",
+            "points": 0,
+            "is_best": false
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "type": "confidant",
+    "character": "Ann",
+    "rank": 6,
+    "dialogue_prompts": [
+      {
+        "prompt_order": 1,
+        "options": [
+          {
+            "text": "It seems that way.",
+            "points": 3,
+            "is_best": true
+          },
+          {
+            "text": "That's such a simple solution.",
+            "points": 0,
+            "is_best": false
+          },
+          {
+            "text": "If it's a friend, yeah.",
+            "points": 2,
+            "is_best": false
+          }
+        ]
+      },
+      {
+        "prompt_order": 2,
+        "options": [
+          {
+            "text": "How so?",
+            "points": 0,
+            "is_best": false
+          },
+          {
+            "text": "Was she working hard?",
+            "points": 0,
+            "is_best": false
+          },
+          {
+            "text": "Was she in pain?",
+            "points": 0,
+            "is_best": false
+          }
+        ]
+      },
+      {
+        "prompt_order": 3,
+        "options": [
+          {
+            "text": "You're not weak.",
+            "points": 0,
+            "is_best": false
+          },
+          {
+            "text": "It's because you're kind.",
+            "points": 0,
+            "is_best": false
+          }
+        ]
+      },
+      {
+        "prompt_order": 4,
+        "options": [
+          {
+            "text": "Comfort her.",
+            "points": 3,
+            "is_best": true
+          },
+          {
+            "text": "Listen to what she has to say.",
+            "points": 2,
+            "is_best": false
+          },
+          {
+            "text": "Show her your own strength.",
+            "points": 3,
+            "is_best": true
+          }
+        ]
+      },
+      {
+        "prompt_order": 5,
+        "options": [
+          {
+            "text": "Someone's motivated.",
+            "points": 2,
+            "is_best": true
+          },
+          {
+            "text": "I'll cheer you on.",
+            "points": 2,
+            "is_best": true
+          },
+          {
+            "text": "You gonna be okay?",
+            "points": 0,
+            "is_best": false
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "type": "confidant",
+    "character": "Ann",
+    "rank": 7,
+    "dialogue_prompts": [
+      {
+        "prompt_order": 1,
+        "options": [
+          {
+            "text": "It's a trap!",
+            "points": 0,
+            "is_best": false
+          },
+          {
+            "text": "She admires you.",
+            "points": 2,
+            "is_best": true
+          }
+        ]
+      },
+      {
+        "prompt_order": 2,
+        "options": [
+          {
+            "text": "So she could show you up.",
+            "points": 0,
+            "is_best": false
+          },
+          {
+            "text": "Because you're a natural beauty.",
+            "points": 0,
+            "is_best": false
+          }
+        ]
+      },
+      {
+        "prompt_order": 3,
+        "options": [
+          {
+            "text": "Cheer up.",
+            "points": 0,
+            "is_best": false
+          },
+          {
+            "text": "Please don't cry.",
+            "points": 0,
+            "is_best": false
+          }
+        ]
+      },
+      {
+        "prompt_order": 4,
+        "options": [
+          {
+            "text": "You already are one.",
+            "points": 0,
+            "is_best": false
+          },
+          {
+            "text": "Go get 'em, tiger.",
+            "points": 2,
+            "is_best": true
+          },
+          {
+            "text": "What about your action movies…?",
+            "points": 0,
+            "is_best": false
+          }
+        ]
+      },
+      {
+        "prompt_order": 5,
+        "options": [
+          {
+            "text": "You got this.",
+            "points": 2,
+            "is_best": true
+          },
+          {
+            "text": "Don't strain yourself.",
+            "points": 0,
+            "is_best": false
+          },
+          {
+            "text": "Trying to be like Mika?",
+            "points": 0,
+            "is_best": false
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "type": "confidant",
+    "character": "Ann",
+    "rank": 8,
+    "dialogue_prompts": [
+      {
+        "prompt_order": 1,
+        "options": [
+          {
+            "text": "That's a lot of work…",
+            "points": 0,
+            "is_best": false
+          },
+          {
+            "text": "You have some real guts.",
+            "points": 3,
+            "is_best": true
+          },
+          {
+            "text": "You're beautiful as is.",
+            "points": 2,
+            "is_best": false
+          }
+        ]
+      },
+      {
+        "prompt_order": 2,
+        "options": [
+          {
+            "text": "There's no doubt in my mind.",
+            "points": 3,
+            "is_best": true
+          },
+          {
+            "text": "I hope so.",
+            "points": 3,
+            "is_best": true
+          },
+          {
+            "text": "Good luck finding it.",
+            "points": 3,
+            "is_best": true
+          }
+        ]
+      },
+      {
+        "prompt_order": 3,
+        "options": [
+          {
+            "text": "Good advice.",
+            "points": 0,
+            "is_best": false
+          },
+          {
+            "text": "You're so dumb, Ryuji…",
+            "points": 0,
+            "is_best": false
+          }
+        ]
+      },
+      {
+        "prompt_order": 4,
+        "options": [
+          {
+            "text": "She'll be happy to hear that.",
+            "points": 3,
+            "is_best": true
+          },
+          {
+            "text": "I'm sure she already knows.",
+            "points": 3,
+            "is_best": true
+          }
+        ]
+      },
+      {
+        "prompt_order": 5,
+        "options": [
+          {
+            "text": "That's probably it.",
+            "points": 2,
+            "is_best": true
+          },
+          {
+            "text": "I wonder.",
+            "points": 0,
+            "is_best": false
+          },
+          {
+            "text": "You can ask her yourself.",
+            "points": 2,
+            "is_best": true
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "type": "confidant",
+    "character": "Ann",
+    "rank": 9,
+    "dialogue_prompts": [
+      {
+        "prompt_order": 1,
+        "options": [
+          {
+            "text": "It's dangerous up here.",
+            "points": 0,
+            "is_best": false
+          },
+          {
+            "text": "Step away from the ledge.",
+            "points": 0,
+            "is_best": false
+          },
+          {
+            "text": "Why did you want to come here?",
+            "points": 0,
+            "is_best": false
+          }
+        ]
+      },
+      {
+        "prompt_order": 2,
+        "options": [
+          {
+            "text": "And?",
+            "points": 0,
+            "is_best": false
+          },
+          {
+            "text": "She's gone, isn't she?",
+            "points": 0,
+            "is_best": false
+          }
+        ]
+      },
+      {
+        "prompt_order": 3,
+        "options": [
+          {
+            "text": "Hang in there.",
+            "points": 3,
+            "is_best": true
+          },
+          {
+            "text": "I believe in you, Ann.",
+            "points": 3,
+            "is_best": true
+          }
+        ]
+      },
+      {
+        "prompt_order": 4,
+        "options": [
+          {
+            "text": "You have me.",
+            "points": 0,
+            "is_best": false
+          },
+          {
+            "text": "You have the others.",
+            "points": 0,
+            "is_best": false
+          }
+        ]
+      },
+      {
+        "prompt_order": 5,
+        "options": [
+          {
+            "text": "You said “I love you.”",
+            "points": 0,
+            "is_best": false
+          },
+          {
+            "text": "I didn't hear you.",
+            "points": 0,
+            "is_best": false
+          }
+        ]
+      },
+      {
+        "prompt_order": 6,
+        "options": [
+          {
+            "text": "Of course.",
+            "points": 2,
+            "is_best": true
+          },
+          {
+            "text": "I'm yours forever.",
+            "points": 2,
+            "is_best": true
+          },
+          {
+            "text": "That's up to you.",
+            "points": 0,
+            "is_best": false
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "type": "confidant",
+    "character": "Ann",
+    "rank": 10,
+    "dialogue_prompts": [
+      {
+        "prompt_order": 1,
+        "options": [
+          {
+            "text": "You really gave it your all.",
+            "points": 3,
+            "is_best": true
+          },
+          {
+            "text": "You still have a ways to go.",
+            "points": 2,
+            "is_best": false
+          },
+          {
+            "text": "Everyone was complimenting you.",
+            "points": 3,
+            "is_best": true
+          }
+        ]
+      },
+      {
+        "prompt_order": 2,
+        "options": [
+          {
+            "text": "That's so embarrassing.",
+            "points": 2,
+            "is_best": false
+          },
+          {
+            "text": "I'll be there with you.",
+            "points": 3,
+            "is_best": true
+          },
+          {
+            "text": "You can do it, Ann.",
+            "points": 3,
+            "is_best": true
+          }
+        ]
+      },
+      {
+        "prompt_order": 3,
+        "options": [
+          {
+            "text": "What's wrong?",
+            "points": 0,
+            "is_best": false
+          },
+          {
+            "text": "It's just the two of us.",
+            "points": 0,
+            "is_best": false
+          }
+        ]
+      },
+      {
+        "prompt_order": 4,
+        "options": [
+          {
+            "text": "Of course.",
+            "points": 3,
+            "is_best": true
+          },
+          {
+            "text": "Anything for you.",
+            "points": 3,
+            "is_best": true
+          }
+        ]
+      },
+      {
+        "prompt_order": 5,
+        "options": [
+          {
+            "text": "I will.",
+            "points": 0,
+            "is_best": false
+          },
+          {
+            "text": "I already am.",
+            "points": 0,
+            "is_best": false
+          }
+        ]
+      },
+      {
+        "prompt_order": 6,
+        "options": [
+          {
+            "text": "Of course.",
+            "points": 0,
+            "is_best": false
+          },
+          {
+            "text": "I should be asking you that.",
+            "points": 0,
+            "is_best": false
+          }
+        ]
+      },
+      {
+        "prompt_order": 7,
+        "options": [
+          {
+            "text": "Couples?",
+            "points": 0,
+            "is_best": false
+          },
+          {
+            "text": "Just Once?",
+            "points": 0,
+            "is_best": false
+          }
+        ]
+      }
+    ]
+  }
+]

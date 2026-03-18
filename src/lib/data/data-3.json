@@ -1,0 +1,1460 @@
+[
+  {
+    "type": "confidant",
+    "character": "Chihaya Mifune",
+    "rank": 1,
+    "dialogue_prompts": [
+      {
+        "prompt_order": 1,
+        "options": [
+          { "text": "I'll be there.", "points": 3, "is_best": true },
+          { "text": "Such a hassle.", "points": 1, "is_best": false },
+          { "text": "You're pretty extreme...", "points": 1, "is_best": false }
+        ]
+      }
+    ]
+  },
+  {
+    "type": "confidant",
+    "character": "Chihaya Mifune",
+    "rank": 2,
+    "dialogue_prompts": [
+      {
+        "prompt_order": 1,
+        "options": [
+          { "text": "Suggest she gives up.", "points": 0, "is_best": true },
+          { "text": "Change her boss's heart.", "points": 0, "is_best": true },
+          { "text": "Encourage her.", "points": 0, "is_best": true }
+        ]
+      },
+      {
+        "prompt_order": 2,
+        "options": [
+          { "text": "Hrahhh!", "points": 0, "is_best": true },
+          { "text": "Overturn your fate!", "points": 0, "is_best": true },
+          { "text": "Fight the power!", "points": 0, "is_best": true }
+        ]
+      },
+      {
+        "prompt_order": 3,
+        "options": [
+          { "text": "You're so stubborn", "points": 0, "is_best": false },
+          { "text": "Open your mind to change.", "points": 2, "is_best": true }
+        ]
+      },
+      {
+        "prompt_order": 4,
+        "options": [
+          { "text": "Of course I am.", "points": 2, "is_best": true },
+          { "text": "And if I am?", "points": 0, "is_best": false },
+          { "text": "Are you stalking me?", "points": 0, "is_best": false }
+        ]
+      }
+    ]
+  },
+  {
+    "type": "confidant",
+    "character": "Chihaya Mifune",
+    "rank": 3,
+    "dialogue_prompts": [
+      {
+        "prompt_order": 1,
+        "options": [
+          { "text": "Go for the money.", "points": 0, "is_best": true },
+          { "text": "Follow his heart.", "points": 0, "is_best": true },
+          { "text": "Chase a promotion.", "points": 0, "is_best": true }
+        ]
+      },
+      {
+        "prompt_order": 2,
+        "options": [
+          {
+            "text": "Thieves may steal her away.",
+            "points": 0,
+            "is_best": true
+          },
+          {
+            "text": "Marriage kills individuality.",
+            "points": 0,
+            "is_best": true
+          },
+          {
+            "text": "She'll be sad if you break it off.",
+            "points": 0,
+            "is_best": true
+          }
+        ]
+      },
+      {
+        "prompt_order": 3,
+        "options": [
+          { "text": "I'm not, sorry.", "points": 0, "is_best": true },
+          { "text": "Who knows…?", "points": 0, "is_best": true }
+        ]
+      }
+    ]
+  },
+  {
+    "type": "confidant",
+    "character": "Chihaya Mifune",
+    "rank": 4,
+    "dialogue_prompts": [
+      {
+        "prompt_order": 1,
+        "options": [
+          {
+            "text": "You're only realizing that now?",
+            "points": 0,
+            "is_best": true
+          },
+          {
+            "text": "Do you want to test it again?",
+            "points": 0,
+            "is_best": true
+          }
+        ]
+      },
+      {
+        "prompt_order": 2,
+        "options": [
+          { "text": "Strengthen your will.", "points": 2, "is_best": false },
+          { "text": "I don't know.", "points": 0, "is_best": false },
+          { "text": "Trust in yourself.", "points": 3, "is_best": true }
+        ]
+      },
+      {
+        "prompt_order": 3,
+        "options": [
+          { "text": "Tell me more.", "points": 0, "is_best": true },
+          { "text": "That sounds so peaceful.", "points": 0, "is_best": true }
+        ]
+      },
+      {
+        "prompt_order": 4,
+        "options": [
+          { "text": "…The chairman?", "points": 0, "is_best": true },
+          { "text": "I'm not sure I follow.", "points": 0, "is_best": true }
+        ]
+      },
+      {
+        "prompt_order": 5,
+        "options": [
+          { "text": "I think it'll work.", "points": 0, "is_best": true },
+          { "text": "It all depends on you.", "points": 0, "is_best": true }
+        ]
+      },
+      {
+        "prompt_order": 6,
+        "options": [
+          { "text": "I'm glad to hear that.", "points": 0, "is_best": false },
+          { "text": "I didn't do much.", "points": 2, "is_best": true },
+          {
+            "text": "Tell me more about your home.",
+            "points": 0,
+            "is_best": false
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "type": "confidant",
+    "character": "Chihaya Mifune",
+    "rank": 5,
+    "dialogue_prompts": [
+      {
+        "prompt_order": 1,
+        "options": [
+          {
+            "text": "You're such a hard worker.",
+            "points": 3,
+            "is_best": true
+          },
+          { "text": "What about divine power?", "points": 0, "is_best": false },
+          {
+            "text": "You must have lots of free time.",
+            "points": 2,
+            "is_best": false
+          }
+        ]
+      },
+      {
+        "prompt_order": 2,
+        "options": [
+          { "text": "But what?", "points": 0, "is_best": true },
+          { "text": "Did you spend it all?", "points": 0, "is_best": true }
+        ]
+      },
+      {
+        "prompt_order": 3,
+        "options": [
+          { "text": "Who was he?", "points": 0, "is_best": true },
+          { "text": "Maiden?", "points": 0, "is_best": true },
+          { "text": "Are you in trouble?", "points": 0, "is_best": true }
+        ]
+      }
+    ]
+  },
+  {
+    "type": "confidant",
+    "character": "Chihaya Mifune",
+    "rank": 6,
+    "dialogue_prompts": [
+      {
+        "prompt_order": 1,
+        "options": [
+          { "text": "I like fortune-telling.", "points": 0, "is_best": true },
+          { "text": "She's really cool.", "points": 0, "is_best": true },
+          {
+            "text": "I'm doing research for school.",
+            "points": 0,
+            "is_best": true
+          }
+        ]
+      },
+      {
+        "prompt_order": 2,
+        "options": [
+          { "text": "…Maiden of Relief?", "points": 0, "is_best": true },
+          { "text": "This has to be a joke.", "points": 0, "is_best": true }
+        ]
+      },
+      {
+        "prompt_order": 3,
+        "options": [
+          { "text": "This guy's sketchy.", "points": 0, "is_best": true },
+          { "text": "Leave her alone.", "points": 0, "is_best": true }
+        ]
+      },
+      {
+        "prompt_order": 4,
+        "options": [
+          {
+            "text": "What's a Maiden of Relief?",
+            "points": 0,
+            "is_best": false
+          },
+          {
+            "text": "Who thinks you're a monster?",
+            "points": 0,
+            "is_best": false
+          },
+          { "text": "You're just Chihaya to me.", "points": 3, "is_best": true }
+        ]
+      },
+      {
+        "prompt_order": 5,
+        "options": [
+          {
+            "text": "No need to strain yourself.",
+            "points": 0,
+            "is_best": false
+          },
+          { "text": "Be honest with yourself.", "points": 2, "is_best": true },
+          {
+            "text": "We'll work on it together.",
+            "points": 0,
+            "is_best": false
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "type": "confidant",
+    "character": "Chihaya Mifune",
+    "rank": 7,
+    "dialogue_prompts": [
+      {
+        "prompt_order": 1,
+        "options": [
+          {
+            "text": "You're not wrong about that.",
+            "points": 0,
+            "is_best": false
+          },
+          {
+            "text": "You shouldn't have tricked them.",
+            "points": 2,
+            "is_best": false
+          },
+          { "text": "I don't think so.", "points": 3, "is_best": true }
+        ]
+      },
+      {
+        "prompt_order": 2,
+        "options": [
+          { "text": "Are you gonna be okay?", "points": 2, "is_best": true },
+          { "text": "Be careful.", "points": 2, "is_best": true },
+          {
+            "text": "So the Maiden's taking action.",
+            "points": 0,
+            "is_best": false
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "type": "confidant",
+    "character": "Chihaya Mifune",
+    "rank": 7.5,
+    "dialogue_prompts": [
+      {
+        "prompt_order": 1,
+        "options": [
+          { "text": "How so?", "points": 0, "is_best": true },
+          { "text": "What have you found?", "points": 0, "is_best": true }
+        ]
+      },
+      {
+        "prompt_order": 2,
+        "options": [
+          { "text": "Tell me his name.", "points": 0, "is_best": true },
+          {
+            "text": "What's Fukurai's first name?",
+            "points": 0,
+            "is_best": true
+          }
+        ]
+      },
+      {
+        "prompt_order": 3,
+        "options": [
+          { "text": "I can't tell you.", "points": 0, "is_best": true },
+          { "text": "Don't worry about it.", "points": 0, "is_best": true }
+        ]
+      }
+    ]
+  },
+  {
+    "type": "confidant",
+    "character": "Chihaya Mifune",
+    "rank": 8,
+    "dialogue_prompts": [
+      {
+        "prompt_order": 1,
+        "options": [
+          { "text": "I had no idea.", "points": 2, "is_best": false },
+          { "text": "I know.", "points": 3, "is_best": true }
+        ]
+      },
+      {
+        "prompt_order": 2,
+        "options": [
+          { "text": "I'm glad to hear that.", "points": 3, "is_best": true },
+          { "text": "That's some good luck.", "points": 3, "is_best": true },
+          {
+            "text": "It's because you're strong.",
+            "points": 3,
+            "is_best": true
+          }
+        ]
+      },
+      {
+        "prompt_order": 3,
+        "options": [
+          { "text": "Why do you ask?", "points": 0, "is_best": false },
+          { "text": "Hell yeah I am.", "points": 3, "is_best": true }
+        ]
+      },
+      {
+        "prompt_order": 4,
+        "options": [
+          {
+            "text": "You give me too much credit.",
+            "points": 0,
+            "is_best": false
+          },
+          { "text": "It was all your own will.", "points": 2, "is_best": true },
+          { "text": "I knew it would happen.", "points": 0, "is_best": false }
+        ]
+      }
+    ]
+  },
+  {
+    "type": "confidant",
+    "character": "Chihaya Mifune",
+    "rank": 9,
+    "dialogue_prompts": [
+      {
+        "prompt_order": 1,
+        "options": [
+          {
+            "text": "You really don't understand.",
+            "points": 0,
+            "is_best": true
+          },
+          {
+            "text": "Listen to what Chihaya's saying.",
+            "points": 0,
+            "is_best": true
+          }
+        ]
+      },
+      {
+        "prompt_order": 2,
+        "options": [
+          {
+            "text": "Do you regret what you did?",
+            "points": 0,
+            "is_best": false
+          },
+          {
+            "text": "Well, fate can be changed.",
+            "points": 3,
+            "is_best": true
+          },
+          {
+            "text": "That's all in the past now.",
+            "points": 2,
+            "is_best": false
+          }
+        ]
+      },
+      {
+        "prompt_order": 3,
+        "options": [
+          {
+            "text": "I like having my fortune read.",
+            "points": 0,
+            "is_best": true
+          },
+          { "text": "So I can be with you.", "points": 0, "is_best": true }
+        ]
+      },
+      {
+        "prompt_order": 4,
+        "options": [
+          {
+            "text": "I wanted to hear your voice too.",
+            "points": 2,
+            "is_best": true
+          },
+          {
+            "text": "Oh, you didn't mean it...?",
+            "points": 0,
+            "is_best": false
+          },
+          { "text": ".....", "points": 0, "is_best": false }
+        ]
+      }
+    ]
+  },
+  {
+    "type": "confidant",
+    "character": "Chihaya Mifune",
+    "rank": 10,
+    "dialogue_prompts": [
+      {
+        "prompt_order": 1,
+        "options": [
+          { "text": "You've never been here?", "points": 0, "is_best": true },
+          { "text": "It wasn't that far away.", "points": 0, "is_best": true }
+        ]
+      },
+      {
+        "prompt_order": 2,
+        "options": [
+          { "text": "I support you.", "points": 3, "is_best": true },
+          {
+            "text": "You have strong convictions.",
+            "points": 3,
+            "is_best": true
+          }
+        ]
+      },
+      {
+        "prompt_order": 3,
+        "options": [
+          { "text": "I wonder if you're right…", "points": 0, "is_best": true },
+          {
+            "text": "So what if I am the Trickster?",
+            "points": 0,
+            "is_best": true
+          },
+          { "text": "You're pretty sharp.", "points": 0, "is_best": true }
+        ]
+      },
+      {
+        "prompt_order": 4,
+        "options": [
+          { "text": "It's not a problem.", "points": 0, "is_best": true },
+          { "text": "Are you worried about me?", "points": 0, "is_best": true },
+          { "text": "What does it mean?", "points": 0, "is_best": true }
+        ]
+      },
+      {
+        "prompt_order": 5,
+        "options": [
+          { "text": "Thank you.", "points": 0, "is_best": true },
+          { "text": "That's really reassuring.", "points": 0, "is_best": true }
+        ]
+      },
+      {
+        "prompt_order": 6,
+        "options": [
+          { "text": "I don't care about that.", "points": 2, "is_best": false },
+          { "text": "It's actually pretty cute.", "points": 3, "is_best": true }
+        ]
+      },
+      {
+        "prompt_order": 7,
+        "options": [
+          {
+            "text": "I was hoping you'd say that.",
+            "points": 0,
+            "is_best": true
+          },
+          { "text": "I don't want to go home.", "points": 0, "is_best": true }
+        ]
+      }
+    ]
+  },
+  {
+    "type": "confidant",
+    "character": "Munehisa Iwai",
+    "rank": 1,
+    "dialogue_prompts": [
+      {
+        "prompt_order": 1,
+        "options": [
+          { "text": "Leave it to me.", "points": 1, "is_best": false },
+          { "text": "As long as it's safe...", "points": 1, "is_best": false },
+          { "text": "So what's my first job?", "points": 3, "is_best": true }
+        ]
+      }
+    ]
+  },
+  {
+    "type": "confidant",
+    "character": "Munehisa Iwai",
+    "rank": 2,
+    "dialogue_prompts": [
+      {
+        "prompt_order": 1,
+        "options": [
+          { "text": "Maybe I should call him.", "points": 0, "is_best": true },
+          { "text": "… Iwai seems sick.", "points": 0, "is_best": true }
+        ]
+      },
+      {
+        "prompt_order": 2,
+        "options": [
+          { "text": "Nothing in particular.", "points": 0, "is_best": true },
+          { "text": "I was daydreaming, sorry.", "points": 0, "is_best": true }
+        ]
+      },
+      {
+        "prompt_order": 3,
+        "options": [
+          { "text": "Who was that guy?", "points": 0, "is_best": false },
+          { "text": "What should I do now?", "points": 2, "is_best": true },
+          { "text": "How's your cold?", "points": 2, "is_best": true }
+        ]
+      }
+    ]
+  },
+  {
+    "type": "confidant",
+    "character": "Munehisa Iwai",
+    "rank": 3,
+    "dialogue_prompts": [
+      {
+        "prompt_order": 1,
+        "options": [
+          { "text": "I know how it feels.", "points": 0, "is_best": true },
+          { "text": "Is it seriously that hard?", "points": 0, "is_best": true }
+        ]
+      },
+      {
+        "prompt_order": 2,
+        "options": [
+          {
+            "text": "I always knew you were a thug.",
+            "points": 3,
+            "is_best": true
+          },
+          { "text": "Oh. I, uh… have to go.", "points": 0, "is_best": false },
+          { "text": "Y-Yakuza!?", "points": 2, "is_best": false }
+        ]
+      },
+      {
+        "prompt_order": 3,
+        "options": [
+          { "text": "Not really.", "points": 0, "is_best": false },
+          { "text": "No, I like that stuff.", "points": 0, "is_best": false },
+          { "text": "We made a deal, didn't we?", "points": 3, "is_best": true }
+        ]
+      },
+      {
+        "prompt_order": 4,
+        "options": [
+          {
+            "text": "Is that one of your customers?",
+            "points": 0,
+            "is_best": true
+          },
+          { "text": "Why are you being so mean?", "points": 0, "is_best": true }
+        ]
+      }
+    ]
+  },
+  {
+    "type": "confidant",
+    "character": "Munehisa Iwai",
+    "rank": 4,
+    "dialogue_prompts": [
+      {
+        "prompt_order": 1,
+        "options": [
+          { "text": "Iwai.", "points": 0, "is_best": true },
+          { "text": "I can't tell you.", "points": 0, "is_best": true },
+          {
+            "text": "It's none of your business.",
+            "points": 0,
+            "is_best": true
+          }
+        ]
+      },
+      {
+        "prompt_order": 2,
+        "options": [
+          { "text": "What was that about?", "points": 0, "is_best": true },
+          { "text": "So that was Tsuda?", "points": 0, "is_best": true },
+          {
+            "text": "What did he mean, “sell” him?",
+            "points": 0,
+            "is_best": true
+          }
+        ]
+      },
+      {
+        "prompt_order": 3,
+        "options": [
+          { "text": "Hong Kong mafia.", "points": 0, "is_best": true },
+          { "text": "A 100 million yen deal.", "points": 0, "is_best": true }
+        ]
+      },
+      {
+        "prompt_order": 4,
+        "options": [
+          { "text": "Give it your all.", "points": 0, "is_best": false },
+          {
+            "text": "You two should play nice.",
+            "points": 2,
+            "is_best": false
+          },
+          { "text": "Where's my reward.", "points": 3, "is_best": true }
+        ]
+      },
+      {
+        "prompt_order": 5,
+        "options": [
+          { "text": "I agree.", "points": 2, "is_best": true },
+          { "text": "Is that a threat?", "points": 0, "is_best": false },
+          { "text": "What's the issue?", "points": 0, "is_best": false }
+        ]
+      }
+    ]
+  },
+  {
+    "type": "confidant",
+    "character": "Munehisa Iwai",
+    "rank": 5,
+    "dialogue_prompts": [
+      {
+        "prompt_order": 1,
+        "options": [
+          { "text": "Why not?", "points": 0, "is_best": true },
+          {
+            "text": "You shouldn't lie to your son.",
+            "points": 0,
+            "is_best": true
+          }
+        ]
+      },
+      {
+        "prompt_order": 2,
+        "options": [
+          { "text": "You're so kind, Iwai.", "points": 0, "is_best": false },
+          { "text": "You're pathetic.", "points": 3, "is_best": true },
+          { "text": "You should call the cops.", "points": 0, "is_best": false }
+        ]
+      },
+      {
+        "prompt_order": 3,
+        "options": [
+          { "text": "That's right.", "points": 2, "is_best": false },
+          { "text": "Don't make assumptions.", "points": 0, "is_best": false },
+          {
+            "text": "I'll stick around for the guns.",
+            "points": 3,
+            "is_best": true
+          }
+        ]
+      },
+      {
+        "prompt_order": 4,
+        "options": [
+          { "text": "You're right.", "points": 2, "is_best": true },
+          {
+            "text": "Is it really all for Kaoru?",
+            "points": 0,
+            "is_best": false
+          },
+          { "text": "Well, you got this.", "points": 0, "is_best": false }
+        ]
+      }
+    ]
+  },
+  {
+    "type": "confidant",
+    "character": "Munehisa Iwai",
+    "rank": 6,
+    "dialogue_prompts": [
+      {
+        "prompt_order": 1,
+        "options": [
+          { "text": "Why would he say that?", "points": 0, "is_best": true },
+          { "text": "No, nothing even close.", "points": 0, "is_best": true }
+        ]
+      },
+      {
+        "prompt_order": 2,
+        "options": [
+          { "text": "He definitely does.", "points": 0, "is_best": true },
+          { "text": "You should ask him.", "points": 0, "is_best": true }
+        ]
+      },
+      {
+        "prompt_order": 3,
+        "options": [
+          { "text": "Our futures.", "points": 2, "is_best": false },
+          { "text": "Girls.", "points": 3, "is_best": true },
+          { "text": "That's a secret.", "points": 3, "is_best": true }
+        ]
+      },
+      {
+        "prompt_order": 4,
+        "options": [
+          { "text": "Right.", "points": 2, "is_best": false },
+          {
+            "text": "You should tell him, Iwai.",
+            "points": 0,
+            "is_best": false
+          },
+          {
+            "text": "You should buy us something.",
+            "points": 3,
+            "is_best": true
+          }
+        ]
+      },
+      {
+        "prompt_order": 5,
+        "options": [
+          {
+            "text": "He's my age, so it comes easier.",
+            "points": 2,
+            "is_best": true
+          },
+          {
+            "text": "All I did was listen to him.",
+            "points": 2,
+            "is_best": true
+          },
+          { "text": "It's part of the job.", "points": 0, "is_best": false }
+        ]
+      }
+    ]
+  },
+  {
+    "type": "confidant",
+    "character": "Munehisa Iwai",
+    "rank": 7,
+    "dialogue_prompts": [
+      {
+        "prompt_order": 1,
+        "options": [
+          { "text": "Not at all.", "points": 0, "is_best": false },
+          { "text": "Absolutely.", "points": 3, "is_best": true },
+          { "text": "I guess he likes guns?", "points": 2, "is_best": false }
+        ]
+      },
+      {
+        "prompt_order": 2,
+        "options": [
+          { "text": "That's horrible.", "points": 0, "is_best": false },
+          { "text": "He's clever.", "points": 3, "is_best": true },
+          { "text": "What a crafty bastard.", "points": 2, "is_best": false }
+        ]
+      },
+      {
+        "prompt_order": 3,
+        "options": [
+          {
+            "text": "Is Tsuda seriously dangerous?",
+            "points": 0,
+            "is_best": true
+          },
+          { "text": "Are you going alone?", "points": 0, "is_best": true }
+        ]
+      },
+      {
+        "prompt_order": 4,
+        "options": [
+          { "text": "Bring it on.", "points": 2, "is_best": true },
+          { "text": "I'm worried...", "points": 0, "is_best": false },
+          { "text": "So what's our first move?", "points": 0, "is_best": false }
+        ]
+      }
+    ]
+  },
+  {
+    "type": "confidant",
+    "character": "Munehisa Iwai",
+    "rank": 7.5,
+    "dialogue_prompts": [
+      {
+        "prompt_order": 1,
+        "options": [
+          { "text": "It most definitely was.", "points": 2, "is_best": false },
+          { "text": "I did it all for Iwai.", "points": 3, "is_best": true },
+          { "text": "Actually, it's been fun.", "points": 0, "is_best": false }
+        ]
+      },
+      {
+        "prompt_order": 2,
+        "options": [
+          { "text": "I will.", "points": 2, "is_best": true },
+          { "text": "I want to help you.", "points": 2, "is_best": true },
+          { "text": "I can't.", "points": 0, "is_best": false }
+        ]
+      },
+      {
+        "prompt_order": 3,
+        "options": [
+          { "text": "What's his full name?", "points": 0, "is_best": true },
+          { "text": "Tell me his name.", "points": 0, "is_best": true }
+        ]
+      }
+    ]
+  },
+  {
+    "type": "confidant",
+    "character": "Munehisa Iwai",
+    "rank": 8,
+    "dialogue_prompts": [
+      {
+        "prompt_order": 1,
+        "options": [
+          { "text": "It's not impossible.", "points": 0, "is_best": false },
+          { "text": "I dunno.", "points": 2, "is_best": true },
+          { "text": "He's matured.", "points": 0, "is_best": false }
+        ]
+      },
+      {
+        "prompt_order": 2,
+        "options": [
+          { "text": "I'm back, baby.", "points": 2, "is_best": false },
+          {
+            "text": "I guess I could consider it.",
+            "points": 3,
+            "is_best": true
+          },
+          { "text": "If you pay me well.", "points": 3, "is_best": true }
+        ]
+      },
+      {
+        "prompt_order": 3,
+        "options": [
+          { "text": "Understood.", "points": 2, "is_best": true },
+          { "text": "You worry too much.", "points": 0, "is_best": false },
+          {
+            "text": "Now let's catch him off-guard.",
+            "points": 0,
+            "is_best": false
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "type": "confidant",
+    "character": "Munehisa Iwai",
+    "rank": 9,
+    "dialogue_prompts": [
+      {
+        "prompt_order": 1,
+        "options": [
+          { "text": "That's great news.", "points": 2, "is_best": false },
+          { "text": "I feel bad for him.", "points": 0, "is_best": false },
+          { "text": "Are you sure he's alive?", "points": 3, "is_best": true }
+        ]
+      },
+      {
+        "prompt_order": 2,
+        "options": [
+          { "text": "Who's Masa?", "points": 0, "is_best": true },
+          { "text": "Will Karou be OK?", "points": 0, "is_best": true }
+        ]
+      },
+      {
+        "prompt_order": 3,
+        "options": [
+          { "text": "We should hurry.", "points": 0, "is_best": true },
+          { "text": "Let's close up shop.", "points": 0, "is_best": true }
+        ]
+      },
+      {
+        "prompt_order": 4,
+        "options": [
+          {
+            "text": "What's your goal here, Masa?",
+            "points": 0,
+            "is_best": true
+          },
+          { "text": "Cut the bullshit.", "points": 0, "is_best": true }
+        ]
+      },
+      {
+        "prompt_order": 5,
+        "options": [
+          { "text": "Tell him the truth.", "points": 3, "is_best": true },
+          {
+            "text": "You need to trust your son.",
+            "points": 3,
+            "is_best": true
+          }
+        ]
+      },
+      {
+        "prompt_order": 6,
+        "options": [
+          {
+            "text": "Karou is really strong-willed.",
+            "points": 3,
+            "is_best": true
+          },
+          {
+            "text": "He gets that maturity from you.",
+            "points": 2,
+            "is_best": false
+          },
+          { "text": "He's a cool kid, huh?", "points": 3, "is_best": true }
+        ]
+      },
+      {
+        "prompt_order": 7,
+        "options": [
+          { "text": "Like father, like son.", "points": 2, "is_best": true },
+          {
+            "text": "Gecko bonds go beyond blood.",
+            "points": 2,
+            "is_best": true
+          },
+          { "text": "Why not newts?", "points": 0, "is_best": false }
+        ]
+      }
+    ]
+  },
+  {
+    "type": "confidant",
+    "character": "Munehisa Iwai",
+    "rank": 10,
+    "dialogue_prompts": [
+      {
+        "prompt_order": 1,
+        "options": [
+          { "text": "It's up to you now, Iwai.", "points": 3, "is_best": true },
+          { "text": "Kaoru won't lose.", "points": 3, "is_best": true },
+          { "text": "Iwai's kind of slow.", "points": 0, "is_best": false }
+        ]
+      },
+      {
+        "prompt_order": 2,
+        "options": [
+          { "text": "I couldn't leave him.", "points": 0, "is_best": true },
+          {
+            "text": "It was for the special menu.",
+            "points": 0,
+            "is_best": true
+          }
+        ]
+      },
+      {
+        "prompt_order": 3,
+        "options": [
+          { "text": "It's a coincidence.", "points": 0, "is_best": false },
+          { "text": "Should we close up?", "points": 0, "is_best": false },
+          { "text": "What if you're right?", "points": 2, "is_best": true }
+        ]
+      }
+    ]
+  },
+  {
+    "type": "confidant",
+    "character": "Futaba Sakura",
+    "rank": 2,
+    "dialogue_prompts": [
+      {
+        "prompt_order": 1,
+        "options": [
+          {
+            "text": "That wouldn't solve anything.",
+            "points": 0,
+            "is_best": false
+          },
+          { "text": "That's a great idea.", "points": 2, "is_best": true }
+        ]
+      },
+      {
+        "prompt_order": 2,
+        "options": [
+          { "text": "If we work together.", "points": 3, "is_best": true },
+          { "text": "Want me to help?", "points": 2, "is_best": false },
+          { "text": "I don't know.", "points": 0, "is_best": false }
+        ]
+      },
+      {
+        "prompt_order": 3,
+        "options": [
+          { "text": "Sounds good to me.", "points": 0, "is_best": true },
+          { "text": "Can you tell me again?", "points": 0, "is_best": true }
+        ]
+      },
+      {
+        "prompt_order": 4,
+        "options": [
+          { "text": "I bet it will.", "points": 2, "is_best": true },
+          { "text": "I'm not sure.", "points": 0, "is_best": false },
+          { "text": "Why not ask him directly?", "points": 0, "is_best": false }
+        ]
+      }
+    ]
+  },
+  {
+    "type": "confidant",
+    "character": "Futaba Sakura",
+    "rank": 3,
+    "dialogue_prompts": [
+      {
+        "prompt_order": 1,
+        "options": [
+          { "text": "I what?", "points": 0, "is_best": false },
+          { "text": "So you're OK?", "points": 0, "is_best": false },
+          {
+            "text": "I was about to come find you.",
+            "points": 3,
+            "is_best": true
+          }
+        ]
+      },
+      {
+        "prompt_order": 2,
+        "options": [
+          { "text": "Good to see you again.", "points": 3, "is_best": true },
+          {
+            "text": "You're the one who appeared.",
+            "points": 2,
+            "is_best": false
+          },
+          {
+            "text": "You need to be more careful.",
+            "points": 0,
+            "is_best": false
+          }
+        ]
+      },
+      {
+        "prompt_order": 3,
+        "options": [
+          { "text": "It'll only get tougher.", "points": 0, "is_best": false },
+          { "text": "You will.", "points": 0, "is_best": false },
+          { "text": "We'll both do our best.", "points": 2, "is_best": true }
+        ]
+      }
+    ]
+  },
+  {
+    "type": "confidant",
+    "character": "Futaba Sakura",
+    "rank": 4,
+    "dialogue_prompts": [
+      {
+        "prompt_order": 1,
+        "options": [
+          { "text": "Nope.", "points": 2, "is_best": false },
+          { "text": "Let's do this together.", "points": 3, "is_best": true },
+          { "text": "If you want.", "points": 0, "is_best": false }
+        ]
+      },
+      {
+        "prompt_order": 2,
+        "options": [
+          { "text": "No, you're talented.", "points": 0, "is_best": true },
+          {
+            "text": "I bet they were just surprised.",
+            "points": 0,
+            "is_best": true
+          }
+        ]
+      },
+      {
+        "prompt_order": 3,
+        "options": [
+          { "text": "Not at all.", "points": 2, "is_best": false },
+          { "text": "Everyone does it.", "points": 2, "is_best": false },
+          { "text": "I think it's cute.", "points": 3, "is_best": true }
+        ]
+      },
+      {
+        "prompt_order": 4,
+        "options": [
+          { "text": "We'll take it slow.", "points": 2, "is_best": true },
+          { "text": "You need more training.", "points": 0, "is_best": false },
+          { "text": "I'll help you anytime.", "points": 2, "is_best": true }
+        ]
+      }
+    ]
+  },
+  {
+    "type": "confidant",
+    "character": "Futaba Sakura",
+    "rank": 5,
+    "dialogue_prompts": [
+      {
+        "prompt_order": 1,
+        "options": [
+          { "text": "He's in my class.", "points": 0, "is_best": true },
+          {
+            "text": "Friend might be a bit much.",
+            "points": 0,
+            "is_best": true
+          }
+        ]
+      },
+      {
+        "prompt_order": 2,
+        "options": [
+          { "text": "I think you're right.", "points": 3, "is_best": true },
+          { "text": "No.", "points": 0, "is_best": false },
+          { "text": "Your… what?", "points": 2, "is_best": false }
+        ]
+      },
+      {
+        "prompt_order": 3,
+        "options": [
+          { "text": "What's an NPC?", "points": 2, "is_best": false },
+          { "text": "Savage.", "points": 0, "is_best": false },
+          { "text": "He's the protagonist.", "points": 3, "is_best": true }
+        ]
+      },
+      {
+        "prompt_order": 4,
+        "options": [
+          { "text": "You did great.", "points": 2, "is_best": true },
+          { "text": "That's nothing special.", "points": 0, "is_best": false },
+          { "text": "Ding! Level up!", "points": 0, "is_best": false }
+        ]
+      }
+    ]
+  },
+  {
+    "type": "confidant",
+    "character": "Futaba Sakura",
+    "rank": 6,
+    "dialogue_prompts": [
+      {
+        "prompt_order": 1,
+        "options": [
+          { "text": "Were you happy?", "points": 2, "is_best": false },
+          {
+            "text": "That must have been a shock.",
+            "points": 3,
+            "is_best": true
+          },
+          { "text": "How did you react?", "points": 0, "is_best": false }
+        ]
+      },
+      {
+        "prompt_order": 2,
+        "options": [
+          {
+            "text": "You didn't know any better.",
+            "points": 2,
+            "is_best": true
+          },
+          {
+            "text": "Did you apologize to her?",
+            "points": 0,
+            "is_best": false
+          },
+          {
+            "text": "Sounds like it was her fault.",
+            "points": 0,
+            "is_best": false
+          }
+        ]
+      },
+      {
+        "prompt_order": 3,
+        "options": [
+          { "text": "Understood.", "points": 0, "is_best": true },
+          { "text": "Someone's pushy today.", "points": 0, "is_best": true }
+        ]
+      },
+      {
+        "prompt_order": 4,
+        "options": [
+          {
+            "text": "Are you running away again?",
+            "points": 2,
+            "is_best": true
+          },
+          { "text": "Let's calm down first.", "points": 0, "is_best": false },
+          { "text": "I'm right here with you.", "points": 0, "is_best": false }
+        ]
+      }
+    ]
+  },
+  {
+    "type": "confidant",
+    "character": "Futaba Sakura",
+    "rank": 7,
+    "dialogue_prompts": [
+      {
+        "prompt_order": 1,
+        "options": [
+          { "text": "What horrible parents.", "points": 2, "is_best": true },
+          {
+            "text": "We have to put a stop to this.",
+            "points": 2,
+            "is_best": true
+          },
+          { "text": "Strange… how?", "points": 0, "is_best": false }
+        ]
+      },
+      {
+        "prompt_order": 2,
+        "options": [
+          { "text": "I'll do it, for you.", "points": 3, "is_best": true },
+          {
+            "text": "We'll show them the truth.",
+            "points": 3,
+            "is_best": true
+          },
+          { "text": "Give me some time.", "points": 2, "is_best": false }
+        ]
+      }
+    ]
+  },
+  {
+    "type": "confidant",
+    "character": "Futaba Sakura",
+    "rank": 8,
+    "dialogue_prompts": [
+      {
+        "prompt_order": 1,
+        "options": [
+          { "text": "That's incredible.", "points": 3, "is_best": true },
+          { "text": "I'm glad to hear that.", "points": 3, "is_best": true },
+          { "text": "Did you stutter at all?", "points": 2, "is_best": false }
+        ]
+      },
+      {
+        "prompt_order": 2,
+        "options": [
+          {
+            "text": "You worked really hard too.",
+            "points": 3,
+            "is_best": true
+          },
+          { "text": "You're making me blush…", "points": 2, "is_best": false },
+          { "text": "Do I get a reward?", "points": 0, "is_best": false }
+        ]
+      },
+      {
+        "prompt_order": 3,
+        "options": [
+          { "text": "Fine by me.", "points": 0, "is_best": true },
+          { "text": "That's all?", "points": 0, "is_best": true }
+        ]
+      },
+      {
+        "prompt_order": 4,
+        "options": [
+          { "text": "Congrats.", "points": 2, "is_best": true },
+          { "text": "You've still got more.", "points": 0, "is_best": false },
+          { "text": "Want more pats?", "points": 2, "is_best": true }
+        ]
+      }
+    ]
+  },
+  {
+    "type": "confidant",
+    "character": "Futaba Sakura",
+    "rank": 9,
+    "dialogue_prompts": [
+      {
+        "prompt_order": 1,
+        "options": [
+          { "text": "You've really matured.", "points": 3, "is_best": true },
+          {
+            "text": "What if you get bullied again?",
+            "points": 2,
+            "is_best": false
+          }
+        ]
+      },
+      {
+        "prompt_order": 2,
+        "options": [
+          {
+            "text": "That doesn't sound healthy…",
+            "points": 0,
+            "is_best": false
+          },
+          { "text": "Are you OK, Futaba?", "points": 3, "is_best": true },
+          { "text": "You're imagining things.", "points": 2, "is_best": false }
+        ]
+      },
+      {
+        "prompt_order": 3,
+        "options": [
+          { "text": "If you want.", "points": 2, "is_best": true },
+          { "text": "No way.", "points": 2, "is_best": true },
+          { "text": "You're giving up?", "points": 0, "is_best": false }
+        ]
+      },
+      {
+        "prompt_order": 4,
+        "options": [
+          { "text": "Because we're teammates.", "points": 0, "is_best": true },
+          { "text": "Because I love you.", "points": 0, "is_best": true }
+        ]
+      },
+      {
+        "prompt_order": 5,
+        "options": [
+          {
+            "text": "I would like that / If that's OK with you.",
+            "points": 0,
+            "is_best": true
+          },
+          {
+            "text": "Um, Hello? / Is something wrong?",
+            "points": 0,
+            "is_best": true
+          },
+          {
+            "text": "Earth to Futaba? / Are you still alive?",
+            "points": 0,
+            "is_best": true
+          }
+        ]
+      },
+      {
+        "prompt_order": 6,
+        "options": [
+          { "text": "Instant yakisoba.", "points": 0, "is_best": false },
+          { "text": "Morgana.", "points": 0, "is_best": false },
+          {
+            "text": "Do I really have to say it?",
+            "points": 2,
+            "is_best": true
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "type": "confidant",
+    "character": "Futaba Sakura",
+    "rank": 10,
+    "dialogue_prompts": [
+      {
+        "prompt_order": 1,
+        "options": [
+          {
+            "text": "What are you talking about?",
+            "points": 0,
+            "is_best": true
+          },
+          { "text": "Don't worry about it.", "points": 0, "is_best": true },
+          { "text": "…Pardoned?", "points": 0, "is_best": true }
+        ]
+      },
+      {
+        "prompt_order": 2,
+        "options": [
+          { "text": "Mission complete.", "points": 0, "is_best": true },
+          { "text": "Nice job, Futaba.", "points": 0, "is_best": true },
+          { "text": "You did great.", "points": 0, "is_best": true }
+        ]
+      },
+      {
+        "prompt_order": 3,
+        "options": [
+          { "text": "I know.", "points": 0, "is_best": true },
+          { "text": "I don't mind.", "points": 0, "is_best": true },
+          { "text": "I like being close.", "points": 0, "is_best": true }
+        ]
+      },
+      {
+        "prompt_order": 4,
+        "options": [
+          { "text": "What's wrong.", "points": 0, "is_best": true },
+          { "text": "Come closer.", "points": 0, "is_best": true }
+        ]
+      },
+      {
+        "prompt_order": 5,
+        "options": [
+          { "text": "Take your time.", "points": 3, "is_best": true },
+          { "text": "You can do this.", "points": 3, "is_best": true },
+          { "text": "We'll do it together.", "points": 3, "is_best": true }
+        ]
+      },
+      {
+        "prompt_order": 6,
+        "options": [
+          { "text": "You can't lose to her.", "points": 3, "is_best": true },
+          { "text": "Do you want a job too?", "points": 2, "is_best": false }
+        ]
+      },
+      {
+        "prompt_order": 7,
+        "options": [
+          { "text": "I honor my promises.", "points": 0, "is_best": true },
+          { "text": "Just keep it cheap.", "points": 0, "is_best": true },
+          { "text": "You remember that?", "points": 0, "is_best": true }
+        ]
+      },
+      {
+        "prompt_order": 8,
+        "options": [
+          { "text": "I'm counting on you.", "points": 0, "is_best": true },
+          { "text": "That's a lot of pressure.", "points": 0, "is_best": true }
+        ]
+      },
+      {
+        "prompt_order": 9,
+        "options": [
+          {
+            "text": "You already have that right.",
+            "points": 3,
+            "is_best": true
+          },
+          {
+            "text": "Took you long enough to ask.",
+            "points": 3,
+            "is_best": true
+          },
+          { "text": "I want that right too.", "points": 3, "is_best": true }
+        ]
+      }
+    ]
+  }
+]

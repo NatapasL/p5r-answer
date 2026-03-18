@@ -1,0 +1,1290 @@
+[
+  {
+    "type": "confidant",
+    "character": "Ryuji",
+    "rank": 2,
+    "dialogue_prompts": [
+      {
+        "prompt_order": 1,
+        "options": [
+          { "text": "I'm counting on you.", "points": 3, "is_best": true },
+          { "text": "You seem pretty excited.", "points": 3, "is_best": true },
+          { "text": "…Help with what?", "points": 2, "is_best": false }
+        ]
+      },
+      {
+        "prompt_order": 2,
+        "options": [
+          { "text": "What about them?", "points": 0, "is_best": true },
+          { "text": "And then you punched him?", "points": 0, "is_best": true }
+        ]
+      },
+      {
+        "prompt_order": 3,
+        "options": [
+          { "text": "Do you want to go back?", "points": 2, "is_best": true },
+          { "text": "Do you regret it?", "points": 2, "is_best": true }
+        ]
+      },
+      {
+        "prompt_order": 4,
+        "options": [
+          {
+            "text": "You're already fast enough.",
+            "points": 2,
+            "is_best": true
+          },
+          { "text": "Are your legs okay?", "points": 2, "is_best": true },
+          { "text": "It's never too late, man.", "points": 2, "is_best": true }
+        ]
+      }
+    ]
+  },
+  {
+    "type": "confidant",
+    "character": "Ryuji",
+    "rank": 3,
+    "dialogue_prompts": [
+      {
+        "prompt_order": 1,
+        "options": [
+          { "text": "Let's not fight.", "points": 2, "is_best": true },
+          { "text": "Want to train with us?", "points": 0, "is_best": false },
+          { "text": "It's nice to meet you.", "points": 0, "is_best": false }
+        ]
+      },
+      {
+        "prompt_order": 2,
+        "options": [
+          { "text": "Calm down, Ryuji.", "points": 3, "is_best": true },
+          { "text": "Just endure it.", "points": 2, "is_best": false },
+          { "text": "I'll shut them up.", "points": 0, "is_best": false }
+        ]
+      },
+      {
+        "prompt_order": 3,
+        "options": [
+          {
+            "text": "I can't exactly blame you.",
+            "points": 2,
+            "is_best": true
+          },
+          {
+            "text": "Violence is not the answer.",
+            "points": 0,
+            "is_best": false
+          },
+          { "text": "Yeah, that'd be best.", "points": 0, "is_best": false }
+        ]
+      }
+    ]
+  },
+  {
+    "type": "confidant",
+    "character": "Ryuji",
+    "rank": 4,
+    "dialogue_prompts": [
+      {
+        "prompt_order": 1,
+        "options": [
+          { "text": "Nakaoka?", "points": 0, "is_best": false },
+          {
+            "text": "Are you worried about him?",
+            "points": 2,
+            "is_best": true
+          },
+          { "text": "Just leave him be.", "points": 0, "is_best": false }
+        ]
+      },
+      {
+        "prompt_order": 2,
+        "options": [
+          { "text": "But you're doing great.", "points": 3, "is_best": true },
+          { "text": "It's not so bad.", "points": 2, "is_best": false },
+          { "text": "I know how you feel.", "points": 3, "is_best": true }
+        ]
+      }
+    ]
+  },
+  {
+    "type": "confidant",
+    "character": "Ryuji",
+    "rank": 5,
+    "dialogue_prompts": [
+      {
+        "prompt_order": 1,
+        "options": [
+          { "text": "A towel?", "points": 2, "is_best": false },
+          { "text": "Protein powder?", "points": 3, "is_best": true }
+        ]
+      },
+      {
+        "prompt_order": 2,
+        "options": [
+          { "text": "You seem conflicted.", "points": 2, "is_best": true },
+          { "text": "Do you want to rejoin?", "points": 2, "is_best": true },
+          {
+            "text": "You're done with them, right?",
+            "points": 0,
+            "is_best": false
+          }
+        ]
+      },
+      {
+        "prompt_order": 3,
+        "options": [
+          { "text": "So he's short?", "points": 2, "is_best": false },
+          { "text": "So he's an asshole?", "points": 3, "is_best": true }
+        ]
+      },
+      {
+        "prompt_order": 4,
+        "options": [
+          { "text": "Don't worry. I gotcha.", "points": 2, "is_best": true },
+          {
+            "text": "I haven't agreed to anything.",
+            "points": 0,
+            "is_best": false
+          },
+          {
+            "text": "Fine, but you're buying ramen.",
+            "points": 0,
+            "is_best": false
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "type": "confidant",
+    "character": "Ryuji",
+    "rank": 6,
+    "dialogue_prompts": [
+      {
+        "prompt_order": 1,
+        "options": [
+          { "text": "Let's stay here.", "points": 2, "is_best": false },
+          {
+            "text": "How about Protein Lovers?",
+            "points": 2,
+            "is_best": false
+          },
+          { "text": "We can train at my place.", "points": 3, "is_best": true }
+        ]
+      },
+      {
+        "prompt_order": 2,
+        "options": [
+          {
+            "text": "You guys should trust Nakaoka.",
+            "points": 3,
+            "is_best": true
+          },
+          {
+            "text": "This is no time for arguing.",
+            "points": 3,
+            "is_best": true
+          }
+        ]
+      },
+      {
+        "prompt_order": 3,
+        "options": [
+          { "text": "Absolutely.", "points": 3, "is_best": true },
+          { "text": "More or less.", "points": 3, "is_best": true },
+          { "text": "Not in the slightest.", "points": 0, "is_best": false }
+        ]
+      },
+      {
+        "prompt_order": 4,
+        "options": [
+          { "text": "I don't get it.", "points": 0, "is_best": true },
+          { "text": "Can you explain that?", "points": 0, "is_best": true }
+        ]
+      },
+      {
+        "prompt_order": 5,
+        "options": [
+          { "text": "…Huh?", "points": 0, "is_best": true },
+          { "text": "I really don't understand.", "points": 0, "is_best": true }
+        ]
+      },
+      {
+        "prompt_order": 6,
+        "options": [
+          {
+            "text": "Sounds like you two were close.",
+            "points": 0,
+            "is_best": false
+          },
+          { "text": "Just like you.", "points": 0, "is_best": false },
+          {
+            "text": "So he should've punched back?",
+            "points": 2,
+            "is_best": true
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "type": "confidant",
+    "character": "Ryuji",
+    "rank": 7,
+    "dialogue_prompts": [
+      {
+        "prompt_order": 1,
+        "options": [
+          {
+            "text": "Should we change his heart?",
+            "points": 0,
+            "is_best": false
+          },
+          { "text": "Let's talk to Takeishi.", "points": 3, "is_best": true }
+        ]
+      },
+      {
+        "prompt_order": 2,
+        "options": [
+          { "text": "I think it's cool, Ryuji.", "points": 3, "is_best": true },
+          { "text": "Wait, what?", "points": 2, "is_best": false }
+        ]
+      },
+      {
+        "prompt_order": 3,
+        "options": [
+          { "text": "Never know until you try", "points": 2, "is_best": true },
+          { "text": "It's out of our hands.", "points": 0, "is_best": false },
+          {
+            "text": "We'll use force if we have to.",
+            "points": 0,
+            "is_best": false
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "type": "confidant",
+    "character": "Ryuji",
+    "rank": 8,
+    "dialogue_prompts": [
+      {
+        "prompt_order": 1,
+        "options": [
+          {
+            "text": "What if they start fighting?",
+            "points": 0,
+            "is_best": true
+          },
+          {
+            "text": "I doubt they'll believe you.",
+            "points": 0,
+            "is_best": true
+          }
+        ]
+      },
+      {
+        "prompt_order": 2,
+        "options": [
+          {
+            "text": "Things turned out for the best.",
+            "points": 3,
+            "is_best": true
+          },
+          { "text": "You deserved it.", "points": 3, "is_best": true }
+        ]
+      },
+      {
+        "prompt_order": 3,
+        "options": [
+          { "text": "All I did was watch.", "points": 3, "is_best": true },
+          {
+            "text": "Are you gonna pay me back?",
+            "points": 2,
+            "is_best": false
+          }
+        ]
+      },
+      {
+        "prompt_order": 4,
+        "options": [
+          {
+            "text": "But I was just standing here…",
+            "points": 2,
+            "is_best": false
+          },
+          { "text": "You weren't cool though.", "points": 3, "is_best": true }
+        ]
+      },
+      {
+        "prompt_order": 5,
+        "options": [
+          { "text": "You did a great job.", "points": 0, "is_best": false },
+          { "text": "So. Closed case?", "points": 2, "is_best": true },
+          { "text": "We make a good team too.", "points": 0, "is_best": false }
+        ]
+      }
+    ]
+  },
+  {
+    "type": "confidant",
+    "character": "Ryuji",
+    "rank": 9,
+    "dialogue_prompts": [
+      {
+        "prompt_order": 1,
+        "options": [
+          { "text": "Are you satisfied now?", "points": 3, "is_best": true },
+          { "text": "Not Running?", "points": 2, "is_best": false }
+        ]
+      },
+      {
+        "prompt_order": 2,
+        "options": [
+          { "text": "What did you say?", "points": 2, "is_best": false },
+          {
+            "text": "Do you have any time for that?",
+            "points": 2,
+            "is_best": false
+          },
+          { "text": "Don't do it.", "points": 3, "is_best": true }
+        ]
+      },
+      {
+        "prompt_order": 3,
+        "options": [
+          { "text": "You're Right.", "points": 3, "is_best": true },
+          { "text": "I never realized that.", "points": 3, "is_best": true }
+        ]
+      },
+      {
+        "prompt_order": 4,
+        "options": [
+          { "text": "I agree.", "points": 2, "is_best": true },
+          { "text": "Be more specific.", "points": 0, "is_best": false },
+          { "text": "And where is this place?", "points": 0, "is_best": false }
+        ]
+      },
+      {
+        "prompt_order": 5,
+        "options": [
+          { "text": "Congratulations.", "points": 2, "is_best": true },
+          {
+            "text": "Got him under control, how?",
+            "points": 0,
+            "is_best": false
+          },
+          { "text": "Better watch out for them.", "points": 2, "is_best": true }
+        ]
+      }
+    ]
+  },
+  {
+    "type": "confidant",
+    "character": "Ryuji",
+    "rank": 10,
+    "dialogue_prompts": [
+      {
+        "prompt_order": 1,
+        "options": [
+          {
+            "text": "I'm looking forward to it.",
+            "points": 3,
+            "is_best": true
+          },
+          { "text": "We can't lose either.", "points": 3, "is_best": true }
+        ]
+      },
+      {
+        "prompt_order": 2,
+        "options": [
+          { "text": "You're welcome.", "points": 0, "is_best": true },
+          { "text": "It's all because of you.", "points": 0, "is_best": true }
+        ]
+      }
+    ]
+  },
+  {
+    "type": "confidant",
+    "character": "Takuto Maruki",
+    "rank": 2,
+    "dialogue_prompts": [
+      {
+        "prompt_order": 1,
+        "options": [
+          { "text": "Didn't have much choice.", "points": 0, "is_best": false },
+          { "text": "We made a deal.", "points": 2, "is_best": true },
+          { "text": "I'm a little nervous.", "points": 2, "is_best": true }
+        ]
+      },
+      {
+        "prompt_order": 2,
+        "options": [
+          { "text": "It's in the past.", "points": 0, "is_best": true },
+          { "text": "I'm doing okay now.", "points": 0, "is_best": true },
+          { "text": "So much for privacy.", "points": 0, "is_best": true }
+        ]
+      },
+      {
+        "prompt_order": 3,
+        "options": [
+          { "text": "But it sounds right.", "points": 3, "is_best": true },
+          { "text": "Yep.", "points": 2, "is_best": false },
+          {
+            "text": "Kinda creeping me out here.",
+            "points": 0,
+            "is_best": false
+          }
+        ]
+      },
+      {
+        "prompt_order": 4,
+        "options": [
+          { "text": "So... what?", "points": 0, "is_best": true },
+          { "text": "I'll need more details.", "points": 0, "is_best": true },
+          { "text": "Uh...", "points": 0, "is_best": true }
+        ]
+      },
+      {
+        "prompt_order": 5,
+        "options": [
+          { "text": "Well, okay.", "points": 2, "is_best": true },
+          { "text": "Better make it worth it.", "points": 0, "is_best": false },
+          { "text": "Why me, though?", "points": 0, "is_best": false }
+        ]
+      }
+    ]
+  },
+  {
+    "type": "confidant",
+    "character": "Takuto Maruki",
+    "rank": 3,
+    "dialogue_prompts": [
+      {
+        "prompt_order": 1,
+        "options": [
+          { "text": "So they have, huh?", "points": 2, "is_best": true },
+          { "text": "You worry too much.", "points": 0, "is_best": false },
+          { "text": "Thanks to you, probably.", "points": 2, "is_best": true }
+        ]
+      },
+      {
+        "prompt_order": 2,
+        "options": [
+          { "text": "Of course.", "points": 2, "is_best": true },
+          { "text": "Yeah, for our deal.", "points": 2, "is_best": true },
+          { "text": "I forgot.", "points": 0, "is_best": false }
+        ]
+      },
+      {
+        "prompt_order": 3,
+        "options": [
+          { "text": "When someone betrays me.", "points": 0, "is_best": true },
+          { "text": "When I lie.", "points": 0, "is_best": true },
+          { "text": "When I get punched.", "points": 0, "is_best": true }
+        ]
+      },
+      {
+        "prompt_order": 4,
+        "options": [
+          { "text": "That one seems necessary", "points": 2, "is_best": true },
+          {
+            "text": "We'd be better off without it.",
+            "points": 0,
+            "is_best": false
+          },
+          { "text": "It's a seed for new loves.", "points": 2, "is_best": true }
+        ]
+      },
+      {
+        "prompt_order": 5,
+        "options": [
+          { "text": "Did that help?", "points": 2, "is_best": true },
+          { "text": "Don't worry about it.", "points": 2, "is_best": true }
+        ]
+      },
+      {
+        "prompt_order": 6,
+        "options": [
+          { "text": "Good work over there.", "points": 2, "is_best": true },
+          {
+            "text": "So you're actually working?",
+            "points": 0,
+            "is_best": false
+          },
+          {
+            "text": "Getting to your research now?",
+            "points": 0,
+            "is_best": false
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "type": "confidant",
+    "character": "Takuto Maruki",
+    "rank": 4,
+    "dialogue_prompts": [
+      {
+        "prompt_order": 1,
+        "options": [
+          { "text": "Where's this coming from?", "points": 0, "is_best": true },
+          {
+            "text": "What are you talking about?",
+            "points": 0,
+            "is_best": true
+          }
+        ]
+      },
+      {
+        "prompt_order": 2,
+        "options": [
+          { "text": "I know, right...?", "points": 3, "is_best": true },
+          { "text": "It's not the worst.", "points": 0, "is_best": false },
+          { "text": "Talk about a reward.", "points": 2, "is_best": false }
+        ]
+      },
+      {
+        "prompt_order": 3,
+        "options": [
+          { "text": "That'd be great.", "points": 2, "is_best": false },
+          { "text": "Is that possible?", "points": 0, "is_best": false },
+          {
+            "text": "Is that what you're researching?",
+            "points": 3,
+            "is_best": true
+          }
+        ]
+      },
+      {
+        "prompt_order": 4,
+        "options": [
+          { "text": "......", "points": 0, "is_best": true },
+          { "text": "Are you okay?", "points": 0, "is_best": true }
+        ]
+      },
+      {
+        "prompt_order": 5,
+        "options": [
+          { "text": "That's a grand plan.", "points": 2, "is_best": true },
+          { "text": "You're so kind.", "points": 2, "is_best": true }
+        ]
+      },
+      {
+        "prompt_order": 6,
+        "options": [
+          { "text": "That sounds fun.", "points": 3, "is_best": true },
+          {
+            "text": "I'm not the \"free labor\" type.",
+            "points": 0,
+            "is_best": false
+          },
+          { "text": "Nope.", "points": 0, "is_best": false }
+        ]
+      },
+      {
+        "prompt_order": 7,
+        "options": [
+          { "text": "I'm completely fine.", "points": 2, "is_best": true },
+          {
+            "text": "It's part of our deal, so...",
+            "points": 2,
+            "is_best": true
+          },
+          {
+            "text": "I'm struggling, to be honest.",
+            "points": 0,
+            "is_best": false
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "type": "confidant",
+    "character": "Takuto Maruki",
+    "rank": 5,
+    "dialogue_prompts": [
+      {
+        "prompt_order": 1,
+        "options": [
+          { "text": "This looks great!", "points": 3, "is_best": true },
+          {
+            "text": "How old do you think I am?",
+            "points": 0,
+            "is_best": false
+          },
+          { "text": "I could just take cash...", "points": 2, "is_best": false }
+        ]
+      },
+      {
+        "prompt_order": 2,
+        "options": [
+          { "text": "The one-cookie container.", "points": 0, "is_best": true },
+          { "text": "The ten-cookie container.", "points": 0, "is_best": true },
+          { "text": "It was a tie.", "points": 0, "is_best": true }
+        ]
+      },
+      {
+        "prompt_order": 3,
+        "options": [
+          { "text": "I never considered that.", "points": 0, "is_best": false },
+          { "text": "They're getting played.", "points": 2, "is_best": false },
+          { "text": "You know, you're right.", "points": 3, "is_best": true }
+        ]
+      },
+      {
+        "prompt_order": 4,
+        "options": [
+          { "text": "My senses lied to me!", "points": 2, "is_best": true },
+          {
+            "text": "Hey, as long as it tastes good.",
+            "points": 2,
+            "is_best": true
+          },
+          { "text": "It's a little scary.", "points": 0, "is_best": false }
+        ]
+      },
+      {
+        "prompt_order": 5,
+        "options": [
+          { "text": "Not \"truth\" exactly...", "points": 0, "is_best": false },
+          { "text": "I guess so.", "points": 2, "is_best": true },
+          { "text": "I don't know.", "points": 0, "is_best": false }
+        ]
+      },
+      {
+        "prompt_order": 6,
+        "options": [
+          { "text": "I really don't mind.", "points": 2, "is_best": true },
+          { "text": "Come on, man.", "points": 0, "is_best": false },
+          { "text": "It was thought-provoking.", "points": 2, "is_best": true }
+        ]
+      }
+    ]
+  },
+  {
+    "type": "confidant",
+    "character": "Takuto Maruki",
+    "rank": 6,
+    "dialogue_prompts": [
+      {
+        "prompt_order": 1,
+        "options": [
+          { "text": "You wanted to talk?", "points": 0, "is_best": false },
+          { "text": "Another cup?", "points": 2, "is_best": true },
+          { "text": "We've got curry, too.", "points": 2, "is_best": true }
+        ]
+      },
+      {
+        "prompt_order": 2,
+        "options": [
+          { "text": "I can do that.", "points": 3, "is_best": true },
+          { "text": "It's a deal.", "points": 2, "is_best": false },
+          { "text": "I'm not up for this...", "points": 0, "is_best": false }
+        ]
+      },
+      {
+        "prompt_order": 3,
+        "options": [
+          { "text": "Isn't that enough?", "points": 0, "is_best": true },
+          { "text": "You need more than that?", "points": 0, "is_best": true }
+        ]
+      },
+      {
+        "prompt_order": 4,
+        "options": [
+          { "text": "So what CAN we do?", "points": 0, "is_best": false },
+          { "text": "It's a hard question...", "points": 0, "is_best": false },
+          { "text": "So give up.", "points": 2, "is_best": true }
+        ]
+      },
+      {
+        "prompt_order": 5,
+        "options": [
+          {
+            "text": "All hearts share some things.",
+            "points": 0,
+            "is_best": true
+          },
+          { "text": "What if they're connected?", "points": 0, "is_best": true }
+        ]
+      },
+      {
+        "prompt_order": 6,
+        "options": [
+          { "text": "Calm down.", "points": 0, "is_best": true },
+          { "text": "Where's this coming from?", "points": 0, "is_best": true },
+          { "text": "Cognitive pscience?", "points": 0, "is_best": true }
+        ]
+      },
+      {
+        "prompt_order": 7,
+        "options": [
+          { "text": "Calm down.", "points": 2, "is_best": true },
+          { "text": "What's going on?", "points": 2, "is_best": true },
+          { "text": "Heavy breathing? Pervert.", "points": 0, "is_best": false }
+        ]
+      }
+    ]
+  },
+  {
+    "type": "confidant",
+    "character": "Takuto Maruki",
+    "rank": 7,
+    "dialogue_prompts": [
+      {
+        "prompt_order": 1,
+        "options": [
+          { "text": "You really are dedicated.", "points": 3, "is_best": true },
+          { "text": "Are they even relevant?", "points": 3, "is_best": true },
+          { "text": "Are you a fan?", "points": 3, "is_best": true }
+        ]
+      },
+      {
+        "prompt_order": 2,
+        "options": [
+          { "text": "No idea.", "points": 3, "is_best": true },
+          { "text": "As in, removing them?", "points": 3, "is_best": true },
+          { "text": "How about you Maruki?", "points": 3, "is_best": true }
+        ]
+      },
+      {
+        "prompt_order": 3,
+        "options": [
+          { "text": "The change of heart...?", "points": 3, "is_best": true },
+          { "text": "......", "points": 3, "is_best": true }
+        ]
+      },
+      {
+        "prompt_order": 4,
+        "options": [
+          { "text": "I have no clue.", "points": 3, "is_best": true },
+          {
+            "text": "Sounds pretty far-fetched.",
+            "points": 3,
+            "is_best": true
+          },
+          { "text": "It's intriguing.", "points": 3, "is_best": true }
+        ]
+      }
+    ]
+  },
+  {
+    "type": "confidant",
+    "character": "Takuto Maruki",
+    "rank": 8,
+    "dialogue_prompts": [
+      {
+        "prompt_order": 1,
+        "options": [
+          {
+            "text": "I'm good on cookies, thanks.",
+            "points": 2,
+            "is_best": false
+          },
+          { "text": "What do you mean?", "points": 3, "is_best": true },
+          {
+            "text": "Thanks, but I should get going.",
+            "points": 0,
+            "is_best": false
+          }
+        ]
+      },
+      {
+        "prompt_order": 2,
+        "options": [
+          { "text": "Ooh, really?", "points": 3, "is_best": true },
+          { "text": "Can you afford that?", "points": 2, "is_best": false },
+          { "text": "Sorry, I prefer sushi.", "points": 2, "is_best": false }
+        ]
+      },
+      {
+        "prompt_order": 3,
+        "options": [
+          { "text": "Thanks for the food!", "points": 3, "is_best": true },
+          { "text": "Self-control much?", "points": 0, "is_best": false },
+          { "text": "This is quite the spread.", "points": 2, "is_best": false }
+        ]
+      },
+      {
+        "prompt_order": 4,
+        "options": [
+          { "text": "I'm his pupil.", "points": 2, "is_best": false },
+          { "text": "It's complicated.", "points": 0, "is_best": false },
+          { "text": "We've made a deal.", "points": 3, "is_best": true }
+        ]
+      },
+      {
+        "prompt_order": 5,
+        "options": [
+          { "text": "Congratulations.", "points": 3, "is_best": true },
+          { "text": "Way to go.", "points": 3, "is_best": true }
+        ]
+      },
+      {
+        "prompt_order": 6,
+        "options": [
+          { "text": "I sure do.", "points": 3, "is_best": true },
+          { "text": "Let's celebrate.", "points": 3, "is_best": true }
+        ]
+      },
+      {
+        "prompt_order": 7,
+        "options": [
+          {
+            "text": "She's a girlfriend of yours?",
+            "points": 0,
+            "is_best": true
+          },
+          { "text": "Who's Rumi?", "points": 0, "is_best": true },
+          {
+            "text": "Should I leave you two to talk?",
+            "points": 0,
+            "is_best": true
+          }
+        ]
+      },
+      {
+        "prompt_order": 8,
+        "options": [
+          { "text": "He's a good friend.", "points": 2, "is_best": true },
+          { "text": "Learn some independence.", "points": 0, "is_best": false },
+          {
+            "text": "You'll get the tab next time.",
+            "points": 0,
+            "is_best": false
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "type": "confidant",
+    "character": "Takuto Maruki",
+    "rank": 9,
+    "dialogue_prompts": [
+      {
+        "prompt_order": 1,
+        "options": [
+          { "text": "Yeah.", "points": 0, "is_best": true },
+          { "text": "Kind of.", "points": 0, "is_best": true }
+        ]
+      },
+      {
+        "prompt_order": 2,
+        "options": [
+          { "text": "Kind of sad...", "points": 3, "is_best": true },
+          { "text": "Is our deal over?", "points": 2, "is_best": false },
+          {
+            "text": "Well... take care of yourself.",
+            "points": 2,
+            "is_best": false
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "type": "confidant",
+    "character": "Tae Takemi",
+    "rank": 1,
+    "dialogue_prompts": [
+      {
+        "prompt_order": 1,
+        "options": [
+          { "text": "Fine by me.", "points": 1, "is_best": false },
+          { "text": "Please go easy on me.", "points": 3, "is_best": true },
+          { "text": "So many pretty lights...", "points": 1, "is_best": false }
+        ]
+      }
+    ]
+  },
+  {
+    "type": "confidant",
+    "character": "Tae Takemi",
+    "rank": 2,
+    "dialogue_prompts": [
+      {
+        "prompt_order": 1,
+        "options": [
+          { "text": "I have a bad heart.", "points": 2, "is_best": true },
+          { "text": "We're on a date.", "points": 0, "is_best": false },
+          { "text": "I know my rights.", "points": 0, "is_best": false }
+        ]
+      },
+      {
+        "prompt_order": 2,
+        "options": [
+          { "text": "I agree.", "points": 2, "is_best": true },
+          { "text": "Harassment?", "points": 0, "is_best": false },
+          { "text": "The Plague?", "points": 0, "is_best": false }
+        ]
+      },
+      {
+        "prompt_order": 3,
+        "options": [
+          { "text": "I'm totally fine.", "points": 2, "is_best": true },
+          { "text": "I feel lightheaded", "points": 0, "is_best": false },
+          { "text": "I think I have superpowers", "points": 2, "is_best": true }
+        ]
+      }
+    ]
+  },
+  {
+    "type": "confidant",
+    "character": "Tae Takemi",
+    "rank": 3,
+    "dialogue_prompts": [
+      {
+        "prompt_order": 1,
+        "options": [
+          { "text": "What was that about?", "points": 0, "is_best": true },
+          { "text": "Was that an emergency?", "points": 0, "is_best": true }
+        ]
+      },
+      {
+        "prompt_order": 2,
+        "options": [
+          { "text": "A medical error?", "points": 0, "is_best": true },
+          { "text": "What do you mean?", "points": 0, "is_best": true }
+        ]
+      },
+      {
+        "prompt_order": 3,
+        "options": [
+          { "text": "I don't mind.", "points": 2, "is_best": true },
+          { "text": "Is it true?", "points": 0, "is_best": false },
+          { "text": "I need the medicine.", "points": 2, "is_best": true }
+        ]
+      },
+      {
+        "prompt_order": 4,
+        "options": [
+          { "text": "Of course not.", "points": 2, "is_best": true },
+          { "text": "I don't think I did...", "points": 0, "is_best": false },
+          { "text": "Have you?", "points": 0, "is_best": false }
+        ]
+      }
+    ]
+  },
+  {
+    "type": "confidant",
+    "character": "Tae Takemi",
+    "rank": 4,
+    "dialogue_prompts": [
+      {
+        "prompt_order": 1,
+        "options": [
+          { "text": "You'll be OK.", "points": 0, "is_best": false },
+          { "text": "Dr. Takemi will help.", "points": 2, "is_best": true }
+        ]
+      },
+      {
+        "prompt_order": 2,
+        "options": [
+          { "text": "You seem happy.", "points": 3, "is_best": true },
+          { "text": "You're so kind.", "points": 2, "is_best": false },
+          { "text": "Why free?", "points": 2, "is_best": false }
+        ]
+      },
+      {
+        "prompt_order": 3,
+        "options": [
+          {
+            "text": "I'll reflect on my mistakes",
+            "points": 2,
+            "is_best": true
+          },
+          { "text": "But she ended up okay.", "points": 0, "is_best": false },
+          { "text": "Punish me more.", "points": 0, "is_best": false }
+        ]
+      }
+    ]
+  },
+  {
+    "type": "confidant",
+    "character": "Tae Takemi",
+    "rank": 5,
+    "dialogue_prompts": [
+      {
+        "prompt_order": 1,
+        "options": [
+          { "text": "They trust you.", "points": 0, "is_best": true },
+          { "text": "Was it really your fault?", "points": 0, "is_best": true }
+        ]
+      },
+      {
+        "prompt_order": 2,
+        "options": [
+          { "text": "I had no idea.", "points": 0, "is_best": true },
+          { "text": "It's not too late.", "points": 0, "is_best": true }
+        ]
+      },
+      {
+        "prompt_order": 3,
+        "options": [
+          { "text": "That's good.", "points": 3, "is_best": true },
+          { "text": "When will it be done?", "points": 2, "is_best": false },
+          { "text": "… “Probably”?", "points": 0, "is_best": false }
+        ]
+      },
+      {
+        "prompt_order": 4,
+        "options": [
+          { "text": "About Miwa-chan?", "points": 2, "is_best": true },
+          { "text": "About Oyamada?", "points": 0, "is_best": false },
+          { "text": "About Crawford-Ende's?", "points": 0, "is_best": false }
+        ]
+      }
+    ]
+  },
+  {
+    "type": "confidant",
+    "character": "Tae Takemi",
+    "rank": 6,
+    "dialogue_prompts": [
+      {
+        "prompt_order": 1,
+        "options": [
+          { "text": "Well, someone's popular.", "points": 0, "is_best": true },
+          { "text": "You seem annoyed.", "points": 0, "is_best": true },
+          { "text": "Did something happen?", "points": 0, "is_best": true }
+        ]
+      },
+      {
+        "prompt_order": 2,
+        "options": [
+          { "text": "Having fun?", "points": 0, "is_best": true },
+          { "text": "You ARE a genius.", "points": 0, "is_best": true }
+        ]
+      },
+      {
+        "prompt_order": 3,
+        "options": [
+          { "text": "You're a masochist.", "points": 0, "is_best": false },
+          { "text": "It suits you.", "points": 3, "is_best": true },
+          { "text": "You're not honest.", "points": 2, "is_best": false }
+        ]
+      },
+      {
+        "prompt_order": 4,
+        "options": [
+          { "text": "You can count on me.", "points": 2, "is_best": true },
+          {
+            "text": "I think I'm at my limit...",
+            "points": 0,
+            "is_best": false
+          },
+          { "text": "Anything for you.", "points": 2, "is_best": true }
+        ]
+      }
+    ]
+  },
+  {
+    "type": "confidant",
+    "character": "Tae Takemi",
+    "rank": 7,
+    "dialogue_prompts": [
+      {
+        "prompt_order": 1,
+        "options": [
+          { "text": "This is harassment.", "points": 2, "is_best": true },
+          { "text": "She's a great doctor.", "points": 2, "is_best": true },
+          { "text": "Please be quiet.", "points": 2, "is_best": true }
+        ]
+      },
+      {
+        "prompt_order": 2,
+        "options": [
+          { "text": "Don't lose hope.", "points": 0, "is_best": true },
+          { "text": "Let's ask for details.", "points": 0, "is_best": true },
+          { "text": "……", "points": 0, "is_best": true }
+        ]
+      },
+      {
+        "prompt_order": 3,
+        "options": [
+          { "text": "Just rest for today.", "points": 2, "is_best": true },
+          { "text": "Anything I can do?", "points": 2, "is_best": true },
+          { "text": "Let's retaliate.", "points": 0, "is_best": false }
+        ]
+      },
+      {
+        "prompt_order": 4,
+        "options": [
+          { "text": "It was inevitable.", "points": 0, "is_best": false },
+          { "text": "We all do sometimes.", "points": 3, "is_best": true },
+          { "text": "I'm glad you did.", "points": 2, "is_best": false }
+        ]
+      }
+    ]
+  },
+  {
+    "type": "confidant",
+    "character": "Tae Takemi",
+    "rank": 7.5,
+    "dialogue_prompts": [
+      {
+        "prompt_order": 1,
+        "options": [
+          { "text": "What about Miwa-chan?", "points": 0, "is_best": true },
+          { "text": "You OK with this?", "points": 0, "is_best": true }
+        ]
+      },
+      {
+        "prompt_order": 2,
+        "options": [
+          { "text": "Don't give up.", "points": 0, "is_best": false },
+          { "text": "Anything you can do?", "points": 0, "is_best": false },
+          { "text": "I'm your ally.", "points": 2, "is_best": true }
+        ]
+      },
+      {
+        "prompt_order": 3,
+        "options": [
+          { "text": "You gonna run away?", "points": 0, "is_best": true },
+          { "text": "And your patients?", "points": 0, "is_best": true }
+        ]
+      },
+      {
+        "prompt_order": 4,
+        "options": [
+          { "text": "What's his full name?", "points": 0, "is_best": true },
+          { "text": "Tell me about him.", "points": 0, "is_best": true }
+        ]
+      },
+      {
+        "prompt_order": 5,
+        "options": [
+          { "text": "I won't do anything.", "points": 0, "is_best": true },
+          { "text": "It's for my research.", "points": 0, "is_best": true }
+        ]
+      }
+    ]
+  },
+  {
+    "type": "confidant",
+    "character": "Tae Takemi",
+    "rank": 8,
+    "dialogue_prompts": [
+      {
+        "prompt_order": 1,
+        "options": [
+          { "text": "Miwa-chan is alive.", "points": 0, "is_best": true },
+          { "text": "Oyamada lied to you.", "points": 0, "is_best": true }
+        ]
+      },
+      {
+        "prompt_order": 2,
+        "options": [
+          { "text": "You should hurry.", "points": 2, "is_best": false },
+          {
+            "text": "Let's get to work, doctor.",
+            "points": 3,
+            "is_best": true
+          },
+          { "text": "It's not over yet.", "points": 3, "is_best": true }
+        ]
+      },
+      {
+        "prompt_order": 3,
+        "options": [
+          { "text": "It's for Miwa-chan", "points": 3, "is_best": true },
+          { "text": "It's for my exams.", "points": 2, "is_best": false },
+          { "text": "It's for you.", "points": 3, "is_best": true }
+        ]
+      },
+      {
+        "prompt_order": 4,
+        "options": [
+          { "text": "I'll be cheering you on.", "points": 2, "is_best": true },
+          { "text": "Don't burn yourself out.", "points": 0, "is_best": false },
+          { "text": "Anything else I can do.", "points": 2, "is_best": true }
+        ]
+      }
+    ]
+  },
+  {
+    "type": "confidant",
+    "character": "Tae Takemi",
+    "rank": 9,
+    "dialogue_prompts": [
+      {
+        "prompt_order": 1,
+        "options": [
+          { "text": "Don't worry about it.", "points": 2, "is_best": false },
+          { "text": "It was for my exams.", "points": 2, "is_best": false },
+          { "text": "It was rough.", "points": 3, "is_best": true }
+        ]
+      },
+      {
+        "prompt_order": 2,
+        "options": [
+          { "text": "That's troubling.", "points": 0, "is_best": true },
+          { "text": "And your patients?", "points": 0, "is_best": true }
+        ]
+      },
+      {
+        "prompt_order": 3,
+        "options": [
+          { "text": "I wanted to see you.", "points": 0, "is_best": true },
+          { "text": "It was for my exams.", "points": 0, "is_best": true }
+        ]
+      },
+      {
+        "prompt_order": 4,
+        "options": [
+          { "text": "I love you.", "points": 2, "is_best": true },
+          { "text": "What do you think?", "points": 0, "is_best": false }
+        ]
+      },
+      {
+        "prompt_order": 5,
+        "options": [
+          { "text": "It isn't a joke.", "points": 3, "is_best": true },
+          { "text": "That sounds good.", "points": 0, "is_best": false }
+        ]
+      },
+      {
+        "prompt_order": 6,
+        "options": [
+          { "text": "It's true love.", "points": 0, "is_best": false },
+          { "text": "So did you.", "points": 2, "is_best": true },
+          { "text": "I've always loved you.", "points": 0, "is_best": false }
+        ]
+      }
+    ]
+  },
+  {
+    "type": "confidant",
+    "character": "Tae Takemi",
+    "rank": 10,
+    "dialogue_prompts": [
+      {
+        "prompt_order": 1,
+        "options": [
+          { "text": "Uh, what?", "points": 0, "is_best": true },
+          { "text": "Is that a joke?", "points": 0, "is_best": true }
+        ]
+      },
+      {
+        "prompt_order": 2,
+        "options": [
+          { "text": "It's a coincidence.", "points": 0, "is_best": false },
+          { "text": "I wonder…", "points": 2, "is_best": true },
+          { "text": "So what if it's true?", "points": 0, "is_best": false }
+        ]
+      },
+      {
+        "prompt_order": 3,
+        "options": [
+          { "text": "What kind?", "points": 2, "is_best": false },
+          { "text": "Yes, please.", "points": 3, "is_best": true }
+        ]
+      }
+    ]
+  }
+]

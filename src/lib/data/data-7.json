@@ -1,0 +1,1102 @@
+[
+  {
+    "type": "classroom",
+    "date": "April 12",
+    "question": "Tell me what the Devil’s Dictionary defines as the Hider factor in the progress of the human race.",
+    "options": [
+      {
+        "text": "Villains",
+        "is_correct": true
+      }
+    ]
+  },
+  {
+    "type": "classroom",
+    "date": "April 19",
+    "question": "Between A and B ... which line seems longer ...?",
+    "options": [
+      {
+        "text": "They’re the same",
+        "is_correct": true
+      }
+    ]
+  },
+  {
+    "type": "classroom",
+    "date": "April 23",
+    "question": "Between music, theater, and chariot racing, which sport did Nero win when he participated in the Olympics?",
+    "options": [
+      {
+        "text": "All of them",
+        "is_correct": true
+      }
+    ]
+  },
+  {
+    "type": "classroom",
+    "date": "April 25",
+    "question": "Ann asks for help about what does the phrase “my country right or wrong” mean to convey?",
+    "options": [
+      {
+        "text": "You unquestionably support it",
+        "is_correct": true
+      }
+    ]
+  },
+  {
+    "type": "classroom",
+    "date": "April 25",
+    "question": "Ann asks for help about what does the phrase “my country right or wrong” mean to convey? (Part 2)",
+    "options": [
+      {
+        "text": "You have a duty to correct it",
+        "is_correct": true
+      }
+    ]
+  },
+  {
+    "type": "classroom",
+    "date": "April 27",
+    "question": "Do you know the name of the theorem named after this number?",
+    "options": [
+      {
+        "text": "Four color theorem",
+        "is_correct": true
+      }
+    ]
+  },
+  {
+    "type": "classroom",
+    "date": "April 30",
+    "question": "First off, the “wunder” part probably means ...?",
+    "options": [
+      {
+        "text": "Wonder",
+        "is_correct": true
+      }
+    ]
+  },
+  {
+    "type": "classroom",
+    "date": "April 30",
+    "question": "Next, the “kind” part. That’s probably ...",
+    "options": [
+      {
+        "text": "Child",
+        "is_correct": true
+      }
+    ]
+  },
+  {
+    "type": "classroom",
+    "date": "April 30",
+    "question": "Yeah, that’s gotta be it. “Kind” means a child ... or at least a young guy, in your case.",
+    "options": [
+      {
+        "text": "A prodigy",
+        "is_correct": true
+      }
+    ]
+  },
+  {
+    "type": "classroom",
+    "date": "May 7",
+    "question": "So what’s the literal translation of the phrase “femme fatale?”",
+    "options": [
+      {
+        "text": "Fatal woman",
+        "is_correct": true
+      }
+    ]
+  },
+  {
+    "type": "classroom",
+    "date": "May 10",
+    "question": "You know the time period Yoshitsune was active in, don’t you?",
+    "options": [
+      {
+        "text": "The Heian period",
+        "is_correct": true
+      }
+    ]
+  },
+  {
+    "type": "exam",
+    "date": "May 11",
+    "question": "What historical figure inspired “favoring the magistrate?”",
+    "options": [
+      {
+        "text": "Minamoto no Yoshitsune",
+        "is_correct": true
+      }
+    ]
+  },
+  {
+    "type": "exam",
+    "date": "May 11",
+    "question": "Yoshitune had a brother, right. Oh, I think his name was ...",
+    "options": [
+      {
+        "text": "Minamoto no Yoritomo",
+        "is_correct": true
+      }
+    ]
+  },
+  {
+    "type": "exam",
+    "date": "May 11",
+    "question": "But they ended up coming into conflict. And in the end when they had to oppose each other ...",
+    "options": [
+      {
+        "text": "Yoritomo won",
+        "is_correct": true
+      }
+    ]
+  },
+  {
+    "type": "exam",
+    "date": "May 11",
+    "question": "That’s probably because people tend to sympathize less with people in power, and sympathize more with ...",
+    "options": [
+      {
+        "text": "The weak",
+        "is_correct": true
+      }
+    ]
+  },
+  {
+    "type": "exam",
+    "date": "May 12",
+    "question": "Which brain function is responsible for the phenomenon of seeing an illusion in this figure?",
+    "options": [
+      {
+        "text": "Cognition",
+        "is_correct": true
+      }
+    ]
+  },
+  {
+    "type": "exam",
+    "date": "May 12",
+    "question": "Which of the following maps can you paint without any adjacent areas being the same color?",
+    "options": [
+      {
+        "text": "Both",
+        "is_correct": true
+      }
+    ]
+  },
+  {
+    "type": "exam",
+    "date": "May 13",
+    "question": "Name that book that defined “male factor” as the chief factor in the progress of the human race.",
+    "options": [
+      {
+        "text": "The Devil’s Dictionary",
+        "is_correct": true
+      }
+    ]
+  },
+  {
+    "type": "exam",
+    "date": "May 13",
+    "question": "What character archetype refers to a mysterious and seductive woman, typically with ulterior motives?",
+    "options": [
+      {
+        "text": "Femme Fatale",
+        "is_correct": true
+      }
+    ]
+  },
+  {
+    "type": "classroom",
+    "date": "May 16",
+    "question": "What do we call the phenomenon where believing in a treatment’s power is enough to improve your condition?",
+    "options": [
+      {
+        "text": "The Placebo effect",
+        "is_correct": true
+      }
+    ]
+  },
+  {
+    "type": "classroom",
+    "date": "May 19",
+    "question": "Which famous artist of the Edo period is said to have moved residence over 100 times?",
+    "options": [
+      {
+        "text": "Katsushika Hokusai",
+        "is_correct": true
+      }
+    ]
+  },
+  {
+    "type": "classroom",
+    "date": "May 21",
+    "question": "The golden ratio is 1:1.618 but do you know the silver ratio?",
+    "options": [
+      {
+        "text": "1:1.414",
+        "is_correct": true
+      }
+    ]
+  },
+  {
+    "type": "classroom",
+    "date": "May 23",
+    "question": "If we think about what these words have in common, then maybe “syn” means ...",
+    "options": [
+      {
+        "text": "Together",
+        "is_correct": true
+      }
+    ]
+  },
+  {
+    "type": "classroom",
+    "date": "May 23",
+    "question": "And “aisthesis,” huh? That’s a little like the word aesthetics. I wonder if it means ...",
+    "options": [
+      {
+        "text": "Senses",
+        "is_correct": true
+      }
+    ]
+  },
+  {
+    "type": "classroom",
+    "date": "May 23",
+    "question": "So that means the full word basically means...",
+    "options": [
+      {
+        "text": "Senses coming together",
+        "is_correct": true
+      }
+    ]
+  },
+  {
+    "type": "classroom",
+    "date": "May 26",
+    "question": "Do you know which author Leblanc borrowed from?",
+    "options": [
+      {
+        "text": "Arthur Conan Doyle",
+        "is_correct": true
+      }
+    ]
+  },
+  {
+    "type": "classroom",
+    "date": "May 31",
+    "question": "Do you know which peg-legged, parrot toting historical figure’s appearance became visual shorthand for pirates?",
+    "options": [
+      {
+        "text": "John Silver",
+        "is_correct": true
+      }
+    ]
+  },
+  {
+    "type": "classroom",
+    "date": "June 4",
+    "question": "What do you think the name for the phenomenon is?",
+    "options": [
+      {
+        "text": "The halo effect",
+        "is_correct": true
+      }
+    ]
+  },
+  {
+    "type": "classroom",
+    "date": "June 7",
+    "question": "The red king crab is biologically related to the hermit crab. So how is it different from a crab. Do you know?",
+    "options": [
+      {
+        "text": "The number of legs",
+        "is_correct": true
+      }
+    ]
+  },
+  {
+    "type": "classroom",
+    "date": "June 8",
+    "question": "Where does totalitarianism take things a step further than authoritarianism?",
+    "options": [
+      {
+        "text": "Controlling Public Thought",
+        "is_correct": true
+      }
+    ]
+  },
+  {
+    "type": "classroom",
+    "date": "June 13",
+    "question": "What color do you think it turns (when washing your hair with copper)",
+    "options": [
+      {
+        "text": "Green",
+        "is_correct": true
+      }
+    ]
+  },
+  {
+    "type": "classroom",
+    "date": "June 15",
+    "question": "Between paper bills and coins, which one is issued by the government?",
+    "options": [
+      {
+        "text": "Coins",
+        "is_correct": true
+      }
+    ]
+  },
+  {
+    "type": "classroom",
+    "date": "June 20",
+    "question": "Assist Ann: One of these has minor metals in it, right?",
+    "options": [
+      {
+        "text": "Smartphone",
+        "is_correct": true
+      }
+    ]
+  },
+  {
+    "type": "classroom",
+    "date": "June 23",
+    "question": "Now do you know what this woman’s position was?",
+    "options": [
+      {
+        "text": "A pope",
+        "is_correct": true
+      }
+    ]
+  },
+  {
+    "type": "classroom",
+    "date": "June 27",
+    "question": "Which of these animals is involved in an English idiom about the weather?",
+    "options": [
+      {
+        "text": "Dogs",
+        "is_correct": true
+      }
+    ]
+  },
+  {
+    "type": "classroom",
+    "date": "June 29",
+    "question": "What do you think it says on the back of this (Shogi) piece?",
+    "options": [
+      {
+        "text": "Gold",
+        "is_correct": true
+      }
+    ]
+  },
+  {
+    "type": "classroom",
+    "date": "July 1",
+    "question": "What’s the meaning of the original Chinese phrase that these dumplings’ name came from?",
+    "options": [
+      {
+        "text": "Barbarian’s Head",
+        "is_correct": true
+      }
+    ]
+  },
+  {
+    "type": "classroom",
+    "date": "July 4",
+    "question": "Two people are responsible for July and August having 31 days. Do you know who those people are?",
+    "options": [
+      {
+        "text": "Julius and Augustus",
+        "is_correct": true
+      }
+    ]
+  },
+  {
+    "type": "classroom",
+    "date": "July 7",
+    "question": "Assist Ann: So Tanabata’s about gods crossing a starry sky to reunite once every year. It might have something to do with... ?",
+    "options": [
+      {
+        "text": "The Milky Way",
+        "is_correct": true
+      }
+    ]
+  },
+  {
+    "type": "classroom",
+    "date": "July 7",
+    "question": "Traditional food",
+    "options": [
+      {
+        "text": "Soumen’s noodles",
+        "is_correct": true
+      }
+    ]
+  },
+  {
+    "type": "classroom",
+    "date": "July 9",
+    "question": "Do you know what shape it is?",
+    "options": [
+      {
+        "text": "A triangle",
+        "is_correct": true
+      }
+    ]
+  },
+  {
+    "type": "classroom",
+    "date": "July 11",
+    "question": "What is long-term memory, anyway?",
+    "options": [
+      {
+        "text": "Memories that last a long time",
+        "is_correct": true
+      }
+    ]
+  },
+  {
+    "type": "classroom",
+    "date": "July 11",
+    "question": "Markus mentioned something about the amount of memories you could store, right? Something like ...",
+    "options": [
+      {
+        "text": "Infinite",
+        "is_correct": true
+      }
+    ]
+  },
+  {
+    "type": "classroom",
+    "date": "July 11",
+    "question": "If you have theoretically infinite space for them... Theoretically, you’d be able to retain them for ...",
+    "options": [
+      {
+        "text": "Forever",
+        "is_correct": true
+      }
+    ]
+  },
+  {
+    "type": "classroom",
+    "date": "July 12",
+    "question": "Do you know what he did?",
+    "options": [
+      {
+        "text": "Thievery",
+        "is_correct": true
+      }
+    ]
+  },
+  {
+    "type": "exam",
+    "date": "July 13",
+    "question": "If angle C is 28 degrees, and angles A and D are 88 degrees, what is the angle of B and E?",
+    "options": [
+      {
+        "text": "64 degrees",
+        "is_correct": true
+      }
+    ]
+  },
+  {
+    "type": "exam",
+    "date": "July 13",
+    "question": "I think this came up in class. They were invented by the campus’s guy from Romance of the Three Kingdoms, right?",
+    "options": [
+      {
+        "text": "Zhuge Liang",
+        "is_correct": true
+      }
+    ]
+  },
+  {
+    "type": "exam",
+    "date": "July 13",
+    "question": "And they were offering something to quell the river ...",
+    "options": [
+      {
+        "text": "Barbarians’ heads",
+        "is_correct": true
+      }
+    ]
+  },
+  {
+    "type": "exam",
+    "date": "July 13",
+    "question": "This master strategist came up with the baozi to",
+    "options": [
+      {
+        "text": "To offer them instead of heads",
+        "is_correct": true
+      }
+    ]
+  },
+  {
+    "type": "exam",
+    "date": "July 14",
+    "question": "What is the name and genus of this organism?",
+    "options": [
+      {
+        "text": "Red King Crab (Paralithodes)",
+        "is_correct": true
+      }
+    ]
+  },
+  {
+    "type": "exam",
+    "date": "July 14",
+    "question": "What happened when the government issued paper and hard currencies in Japan for the first time?",
+    "options": [
+      {
+        "text": "It caused confusion in the economy",
+        "is_correct": true
+      }
+    ]
+  },
+  {
+    "type": "exam",
+    "date": "July 15",
+    "question": "What is the English equivalent of the Norwegian idiom “raining witches?”",
+    "options": [
+      {
+        "text": "Raining cats and dogs",
+        "is_correct": true
+      }
+    ]
+  },
+  {
+    "type": "exam",
+    "date": "July 15",
+    "question": "Which of the following is another name for spikenard noodles traditionally eaten in Tanabata?",
+    "options": [
+      {
+        "text": "Demon guts",
+        "is_correct": true
+      }
+    ]
+  },
+  {
+    "type": "classroom",
+    "date": "September 3",
+    "question": "Each hand in this famous statue means something, but ... do you know what the right represents?",
+    "options": [
+      {
+        "text": "Prosperity",
+        "is_correct": true
+      }
+    ]
+  },
+  {
+    "type": "classroom",
+    "date": "September 6",
+    "question": "Do you know the name of that phenomenon where the second hand looks like it’s stopped moving?",
+    "options": [
+      {
+        "text": "Chronostasis",
+        "is_correct": true
+      }
+    ]
+  },
+  {
+    "type": "classroom",
+    "date": "September 14",
+    "question": "What does a pawn shop offer that a secondhand shop doesn’t?",
+    "options": [
+      {
+        "text": "Money loans for collateral",
+        "is_correct": true
+      }
+    ]
+  },
+  {
+    "type": "classroom",
+    "date": "September 17",
+    "question": "What’s one of the supposed origins for the phrase “cat got your tongue?”",
+    "options": [
+      {
+        "text": "Cats eating human tongues",
+        "is_correct": true
+      }
+    ]
+  },
+  {
+    "type": "classroom",
+    "date": "September 21",
+    "question": "Robot comes from a word in Czech ... but where in Europe is the Czech Republic located?",
+    "options": [
+      {
+        "text": "Central Europe",
+        "is_correct": true
+      }
+    ]
+  },
+  {
+    "type": "classroom",
+    "date": "September 24",
+    "question": "How many white and black shapes are there respectively on a soccer ball?",
+    "options": [
+      {
+        "text": "20 white, 12 black",
+        "is_correct": true
+      }
+    ]
+  },
+  {
+    "type": "classroom",
+    "date": "September 28",
+    "question": "So \"PVS,\" referring to when you mistakenly think your phone is going off... What's the P?",
+    "options": [
+      {
+        "text": "Phantom",
+        "is_correct": true
+      }
+    ]
+  },
+  {
+    "type": "classroom",
+    "date": "September 28",
+    "question": "The next part is the V part. That means it'd be \"phantom...\" what?",
+    "options": [
+      {
+        "text": "Vibration",
+        "is_correct": true
+      }
+    ]
+  },
+  {
+    "type": "classroom",
+    "date": "September 28",
+    "question": "Last is the S. So if we have \"phantom vibration\" so far...?",
+    "options": [
+      {
+        "text": "Syndrome",
+        "is_correct": true
+      }
+    ]
+  },
+  {
+    "type": "classroom",
+    "date": "September 29",
+    "question": "But the fishermen of Nagaragawa are actually civil servants as well. So, tell me which sector they belong to.",
+    "options": [
+      {
+        "text": "Imperial Household Agency",
+        "is_correct": true
+      }
+    ]
+  },
+  {
+    "type": "classroom",
+    "date": "October 3",
+    "question": "If we use “three watermelons in the sun” to visualize a certain matter’s size against the universe’s, what are the melons?",
+    "options": [
+      {
+        "text": "Stars",
+        "is_correct": true
+      }
+    ]
+  },
+  {
+    "type": "classroom",
+    "date": "October 6",
+    "question": "Now, do you know who invented this instrument? (Guillotine)",
+    "options": [
+      {
+        "text": "Joseph-Ignace Guillotine",
+        "is_correct": true
+      }
+    ]
+  },
+  {
+    "type": "classroom",
+    "date": "October 11",
+    "question": "Which name was most commonly ascribed to shape B?",
+    "options": [
+      {
+        "text": "Bouba",
+        "is_correct": true
+      }
+    ]
+  },
+  {
+    "type": "exam",
+    "date": "October 17",
+    "question": "Counting both black and white surfaces, how many surfaces are there in total on a soccer ball?",
+    "options": [
+      {
+        "text": "32 surfaces",
+        "is_correct": true
+      }
+    ]
+  },
+  {
+    "type": "exam",
+    "date": "October 17",
+    "question": "Didn’t the teacher say that the number of colors used to be different? Do you remember?",
+    "options": [
+      {
+        "text": "It used to be one color",
+        "is_correct": true
+      }
+    ]
+  },
+  {
+    "type": "exam",
+    "date": "October 17",
+    "question": "Oh yeah, I remember. I think she said that unlike now, soccer games were broadcast with ...",
+    "options": [
+      {
+        "text": "Black and white picture",
+        "is_correct": true
+      }
+    ]
+  },
+  {
+    "type": "exam",
+    "date": "October 18",
+    "question": "Who conducted executions using this device?",
+    "options": [
+      {
+        "text": "Charles-Henri Sanson",
+        "is_correct": true
+      }
+    ]
+  },
+  {
+    "type": "exam",
+    "date": "October 18",
+    "question": "What is the reason that most people can not become a commercial fisherman of Nagarasawa?",
+    "options": [
+      {
+        "text": "It’s a hereditary profession",
+        "is_correct": true
+      }
+    ]
+  },
+  {
+    "type": "exam",
+    "date": "October 19",
+    "question": "What is the meaning of “robota,” the etymological root of “robot”",
+    "options": [
+      {
+        "text": "Slave labor",
+        "is_correct": true
+      }
+    ]
+  },
+  {
+    "type": "exam",
+    "date": "October 19",
+    "question": "Which of the following describes the density of the stars in outer space?",
+    "options": [
+      {
+        "text": "3 bees in all of Europe",
+        "is_correct": true
+      }
+    ]
+  },
+  {
+    "type": "classroom",
+    "date": "October 22",
+    "question": "Now, tell me the total count for each column in this magic square.",
+    "options": [
+      {
+        "text": "15",
+        "is_correct": true
+      }
+    ]
+  },
+  {
+    "type": "classroom",
+    "date": "October 24",
+    "question": "From a psychological standpoint, what’s a key reason our memories can differ from reality?",
+    "options": [
+      {
+        "text": "Memory Bias",
+        "is_correct": true
+      }
+    ]
+  },
+  {
+    "type": "classroom",
+    "date": "November 2",
+    "question": "Can you tell me the meaning of the word “wack” in Thieves’ Cant?",
+    "options": [
+      {
+        "text": "A share of stolen goods",
+        "is_correct": true
+      }
+    ]
+  },
+  {
+    "type": "classroom",
+    "date": "November 4",
+    "question": "Clubs is a club, diamond is a gem, so what does a spade represent?",
+    "options": [
+      {
+        "text": "A sword",
+        "is_correct": true
+      }
+    ]
+  },
+  {
+    "type": "classroom",
+    "date": "November 8",
+    "question": "Tell me how old you have to be to listen in on a trial?",
+    "options": [
+      {
+        "text": "Any age",
+        "is_correct": true
+      }
+    ]
+  },
+  {
+    "type": "classroom",
+    "date": "November 10",
+    "question": "Do you know why it’s missing in the character for crow?",
+    "options": [
+      {
+        "text": "Crow eyes are hard to see",
+        "is_correct": true
+      }
+    ]
+  },
+  {
+    "type": "classroom",
+    "date": "November 12",
+    "question": "I wonder. Do you know why voices sound so different over the phone?",
+    "options": [
+      {
+        "text": "Because the voice is synthetic.",
+        "is_correct": true
+      }
+    ]
+  },
+  {
+    "type": "classroom",
+    "date": "November 14",
+    "question": "Tell me why that is? (Sun rising over Mt. Fuji)",
+    "options": [
+      {
+        "text": "Because of high altitude",
+        "is_correct": true
+      }
+    ]
+  },
+  {
+    "type": "classroom",
+    "date": "November 15",
+    "question": "He was to be paraded through the city and punished in a very particular way. How was he punished? (Nezumi Kozo)",
+    "options": [
+      {
+        "text": "His head was put on display",
+        "is_correct": true
+      }
+    ]
+  },
+  {
+    "type": "classroom",
+    "date": "November 17",
+    "question": "Do you know the name for this graph? Your hint is “snails” ...",
+    "options": [
+      {
+        "text": "Cochleoid",
+        "is_correct": true
+      }
+    ]
+  },
+  {
+    "type": "exam",
+    "date": "December 20",
+    "question": "Choose the graph which is named after the Chinese yoyo known as a diabolo.",
+    "options": [
+      {
+        "text": "D",
+        "is_correct": true
+      }
+    ]
+  },
+  {
+    "type": "exam",
+    "date": "December 20",
+    "question": "He was a really famous thief in the Edo period, right? How much money did he steal, in the end?",
+    "options": [
+      {
+        "text": "Over one billion yen",
+        "is_correct": true
+      }
+    ]
+  },
+  {
+    "type": "exam",
+    "date": "December 20",
+    "question": "As a result he was sentenced to ...",
+    "options": [
+      {
+        "text": "Having his head displayed",
+        "is_correct": true
+      }
+    ]
+  },
+  {
+    "type": "exam",
+    "date": "December 20",
+    "question": "Criminals, especially famous criminals, were mostly parades around for ...",
+    "options": [
+      {
+        "text": "A performance",
+        "is_correct": true
+      }
+    ]
+  },
+  {
+    "type": "exam",
+    "date": "December 21",
+    "question": "Which suit of cards represents the Holy Grail?",
+    "options": [
+      {
+        "text": "Hearts",
+        "is_correct": true
+      }
+    ]
+  },
+  {
+    "type": "exam",
+    "date": "December 21",
+    "question": "According to Japanese judicial law, what is possible for even an infant to do in court?",
+    "options": [
+      {
+        "text": "Attend",
+        "is_correct": true
+      }
+    ]
+  },
+  {
+    "type": "exam",
+    "date": "December 22",
+    "question": "What country refers to a person who controls politics behind the scenes as a “prime minister in black?”",
+    "options": [
+      {
+        "text": "Japan",
+        "is_correct": true
+      }
+    ]
+  },
+  {
+    "type": "exam",
+    "date": "December 22",
+    "question": "The Japanese word “dokyuu” translates to “massive.” What English word inspired the initial “do” in dokyuu?",
+    "options": [
+      {
+        "text": "Dreadnought",
+        "is_correct": true
+      }
+    ]
+  },
+  {
+    "type": "classroom",
+    "date": "January 11",
+    "question": "Assist Ann 1: What’s this phrase supposed to illustrate about the gods of Shinto?",
+    "options": [
+      {
+        "text": "How numerous they are",
+        "is_correct": true
+      }
+    ]
+  },
+  {
+    "type": "classroom",
+    "date": "January 11",
+    "question": "Assist Ann 2: What’s the phrase again? The one about how many gods there are in Shinto?",
+    "options": [
+      {
+        "text": "The Eight Million Gods",
+        "is_correct": true
+      }
+    ]
+  },
+  {
+    "type": "classroom",
+    "date": "January 14",
+    "question": "Where do you think the fictional land of “Ihatov” is modeled after?",
+    "options": [
+      {
+        "text": "Iwate",
+        "is_correct": true
+      }
+    ]
+  },
+  {
+    "type": "classroom",
+    "date": "January 18",
+    "question": "What did the word awful originally mean?",
+    "options": [
+      {
+        "text": "Impressive",
+        "is_correct": true
+      }
+    ]
+  },
+  {
+    "type": "classroom",
+    "date": "January 20",
+    "question": "Do you know what she’s stepping on?",
+    "options": [
+      {
+        "text": "A snake",
+        "is_correct": true
+      }
+    ]
+  },
+  {
+    "type": "classroom",
+    "date": "January 24",
+    "question": "What does that mean when describing a person? (Sweet)",
+    "options": [
+      {
+        "text": "Kind-hearted",
+        "is_correct": true
+      }
+    ]
+  },
+  {
+    "type": "classroom",
+    "date": "January 24",
+    "question": "So what kind of connotation would “salty” have in that context?",
+    "options": [
+      {
+        "text": "Negative",
+        "is_correct": true
+      }
+    ]
+  },
+  {
+    "type": "classroom",
+    "date": "January 24",
+    "question": "So with all of that in mind, “salty” probably means ...",
+    "options": [
+      {
+        "text": "Resentful",
+        "is_correct": true
+      }
+    ]
+  },
+  {
+    "type": "classroom",
+    "date": "January 27",
+    "question": "How far did this study suggest personal happiness can spread?",
+    "options": [
+      {
+        "text": "To friends of friends of friends",
+        "is_correct": true
+      }
+    ]
+  }
+]
