@@ -17,7 +17,7 @@
   const options: Option[] = [
     { label: CLASSROOM_OPTION, value: CLASSROOM_OPTION },
     ...[...new Set(confidants.map(({ character }) => character))]
-      .sort((a, b) => dayjs(a).diff(dayjs(b)))
+      .sort((a, b) => a.localeCompare(b))
       .map((character) => ({ label: character, value: character })),
   ];
 
@@ -42,7 +42,13 @@
     return classroomFuse
       .search(searchQuery)
       .map((result) => result.item)
-      .sort((a, b) => a.date.localeCompare(b.date));
+      .sort((a, b) => {
+        const dateA = dayjs(a.date, "MMMM D");
+        const dateB = dayjs(b.date, "MMMM D");
+        const valA = dateA.month() < 3 ? dateA.add(1, "year").valueOf() : dateA.valueOf();
+        const valB = dateB.month() < 3 ? dateB.add(1, "year").valueOf() : dateB.valueOf();
+        return valA - valB;
+      });
   });
 
   let confidantResults = $derived.by(() => {
